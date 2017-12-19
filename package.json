@@ -1,0 +1,22 @@
+{
+    "name": "pines-visual-studio-code",
+    "displayName": "pines-visual-studio-code",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "pines",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "pines",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pines-color-theme.json"
+            }
+        ]
+    }
+}
