@@ -1,19 +1,32 @@
 {
     "name": "pines-visual-studio-code",
-    "displayName": "pines-visual-studio-code",
+    "displayName": "Pines",
     "description": "",
     "version": "0.0.1",
-    "publisher": "pines",
+    "publisher": "deeppines",
+    "author": {
+        "name": "deeppines"
+    },
+    "homepage": "https://github.com/deeppines/pines-visual-studio-code",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/deeppines/pines-visual-studio-code"
+    },
+    "bugs": {
+        "url": "https://github.com/deeppines/pines-visual-studio-code/issues"
+    },
+    "license": "https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE",
     "engines": {
         "vscode": "^1.19.0"
     },
+    "markdown": "github",
     "categories": [
         "Themes"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "pines",
+                "label": "Pines",
                 "uiTheme": "vs-dark",
                 "path": "./themes/pines-color-theme.json"
             }
