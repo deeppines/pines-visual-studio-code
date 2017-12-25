@@ -16,8 +16,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#eeffffff",
-				"background": "#263238ff"
+				"foreground": "#eeffffff"
 			}
 		},
 		{
@@ -162,7 +161,6 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "normal",
 				"foreground": "#C3E88D"
 			}
 		},
@@ -476,7 +474,7 @@
 				"text.html.markdown meta.dummy.line-break"
 			],
 			"settings": {
-				"foreground": ""
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -542,8 +540,7 @@
 				"markup.strike"
 			],
 			"settings": {
-				"fontStyle": "strike",
-				"foreground": ""
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -552,7 +549,6 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"background": "#65737E",
 				"foreground": "#65737E"
 			}
 		},
@@ -563,7 +559,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": ""
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -647,7 +643,6 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"background": "#00000050",
 				"foreground": "#65737E"
 			}
 		},
