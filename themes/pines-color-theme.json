@@ -30,7 +30,18 @@
         "statusBar.debuggingBorder": "#222e3f",
         "statusBar.debuggingForeground": "#697484",
 
-        "tab.inactiveBackground": "#222e3f"
+        "titleBar.border": "#222e3f",
+        "titleBar.activeBackground": "#222e3f",
+        "titleBar.activeForeground": "#697484",
+        "titleBar.inactiveBackground": "#222e3f",
+        "titleBar.inactiveForeground": "#697484",
+
+        "tab.border": "#253447",
+        "tab.activeBackground": "#253447",
+        "tab.activeBorder": "#253447",
+        "tab.activeForeground": "#ebebeb",
+        "tab.inactiveBackground": "#222e3f",
+        "tab.inactiveForeground": "#bbbbbb"
     },
     "tokenColors": [
         {
