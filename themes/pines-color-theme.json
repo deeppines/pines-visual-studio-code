@@ -9,6 +9,10 @@
         "editorGroup.dropBackground": "#222e3faa",
         "editorGroup.border": "#222e3f",
 
+        "editorGroupHeader.tabsBackground": "#222e3f",
+        "editorGroupHeader.noTabsBackground": "#222e3f",
+        "editorGroupHeader.tabsBorder": "#253447",
+
         "panel.background": "#253447",
         "panel.border": "#253447",
         "panel.dropBackground": "#253447",
