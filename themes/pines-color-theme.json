@@ -2,10 +2,16 @@
 	"name": "pines",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
-		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editorCodeLens.foreground": "#cdcdcd",
+		"editor.background": "#253447",
+		"editor.foreground": "#cdcdcd",
+		"activityBarBadge.background": "#34495e",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#253447",
+		"statusBar.background": "#222e3f",
+		"panel.background": "#222e3f",
+		"tab.inactiveBackground": "#222e3f",
+		"activityBar.background": "#222e3f",
 	},
 	"tokenColors": [
 		{
