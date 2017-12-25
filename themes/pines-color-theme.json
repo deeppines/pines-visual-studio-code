@@ -5,9 +5,13 @@
         "editor.background": "#253447",
         "editor.foreground": "#d4d4d4",
 
-        "panel.background": "#222e3f",
-        "panel.border": "#222e3f",
-        "panel.dropBackground": "#222e3f",
+        "editorGroup.background": "#253447",
+        "editorGroup.dropBackground": "#222e3faa",
+        "editorGroup.border": "#222e3f",
+
+        "panel.background": "#253447",
+        "panel.border": "#253447",
+        "panel.dropBackground": "#253447",
         "panelTitle.activeBorder": "#d4d4d4",
         "panelTitle.activeForeground": "#d4d4d4",
         "panelTitle.inactiveForeground": "#bbbbbb",
