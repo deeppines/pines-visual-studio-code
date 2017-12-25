@@ -41,7 +41,10 @@
         "tab.activeBorder": "#253447",
         "tab.activeForeground": "#ebebeb",
         "tab.inactiveBackground": "#222e3f",
-        "tab.inactiveForeground": "#bbbbbb"
+        "tab.inactiveForeground": "#bbbbbb",
+        "tab.unfocusedActiveBorder": "#253447",
+        "tab.unfocusedActiveForeground": "#ebebeb",
+        "tab.unfocusedInactiveForeground": "#bbbbbb"
     },
     "tokenColors": [
         {
