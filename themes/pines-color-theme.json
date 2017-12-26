@@ -51,6 +51,11 @@
         "editorGroupHeader.noTabsBackground": "#1c2939",
         "editorGroupHeader.tabsBorder": "#253447",
 
+        "scrollbarSlider.background": "#1c293999",
+        "scrollbarSlider.hoverBackground": "#1c2939dd",
+        "scrollbarSlider.activeBackground": "#1c2939",
+        "scrollbar.shadow": "#25344700",
+
         "panel.background": "#253447",
         "panel.border": "#253447",
         "panel.dropBackground": "#253447aa",
