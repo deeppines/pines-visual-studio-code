@@ -8,11 +8,26 @@
         "editor.foreground": "#d6d8d9",
         
         "editorCodeLens.foreground": "#ff0000",
+        "editorLineNumber.foreground": "#4d5d6c",
 
         "input.background": "#1c2939",
         "input.border": "#1c2939",
         "input.foreground": "#d6d8d9",
         "input.placeholderForeground": "#4d5d6c",
+
+        "list.activeSelectionBackground": "#1c2939",
+        "list.activeSelectionForeground": "#d6d8d9",
+        "list.inactiveFocusBackground": "#4d5d6c",
+        "list.inactiveFocusForeground": "#d6d8d9",
+        "list.inactiveSelectionBackground": "#4d5d6c",
+        "list.inactiveSelectionForeground": "#d6d8d9",
+        "list.hoverBackground": "#1c2939",
+        "list.hoverForeground": "#d6d8d9",
+        "list.dropBackground": "#1c2939cc",
+        "list.focusBackground": "#1c2939",
+        "list.focusForeground": "#d6d8d9",
+        "list.highlightForeground": "#d44b74",
+        "list.invalidItemForeground": "#d44b74",
 
         "dropdown.background": "#1c2939",
         "dropdown.border": "#1c2939",
