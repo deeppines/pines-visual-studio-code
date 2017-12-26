@@ -8,6 +8,11 @@ Dark theme for Visual Studio Code
 
 ### Syntax Color Palette
 
+## Getting started
+### Installation
+
+## Screenshots
+
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/deeppines/pines-visual-studio-code/issues).
 
