@@ -3,6 +3,7 @@
     "type": "dark",
     "colors": {
         "foreground": "#d6d8d9",
+        "descriptionForeground": "#d6d8d9",
 
         "editor.background": "#253447",
         "editor.foreground": "#d6d8d9",
@@ -17,7 +18,6 @@
         "editorLineNumber.foreground": "#4d5d6c",
         "editorWhitespace.foreground": "#4d5d6c",
         "editorIndentGuide.background": "#4d5d6c",
-
         "editor.lineHighlightBackground": "#1c29397e",
         "editor.lineHighlightBorder": "#253447",
 
@@ -50,6 +50,12 @@
         "terminal.ansiBrightMagenta": "#b48ead",
         "terminal.ansiBrightCyan": "#8fbcbb",
         "terminal.ansiBrightWhite": "#eceff4",
+
+        "gitDecoration.untrackedResourceForeground": "#3bbb3b",
+        "gitDecoration.modifiedResourceForeground": "#4598bf",
+        "gitDecoration.deletedResourceForeground": "#d44b74",
+        "gitDecoration.ignoredResourceForeground": "#4d5d6c",
+        "gitDecoration.conflictingResourceForeground": "#ff0000",
 
         "input.background": "#1c2939",
         "input.border": "#1c2939",
