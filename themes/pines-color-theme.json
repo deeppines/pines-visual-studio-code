@@ -6,12 +6,16 @@
 
         "editor.background": "#253447",
         "editor.foreground": "#d6d8d9",
-        
-        "editorCodeLens.foreground": "#ff0000",
         "editorLineNumber.foreground": "#4d5d6c",
 
         "editorHoverWidget.background": "#1c2939",
         "editorHoverWidget.border": "#4d5d6c",
+
+        "editorSuggestWidget.background": "#1c2939",
+        "editorSuggestWidget.foreground": "#d6d8d9",
+        "editorSuggestWidget.border": "#4d5d6c",
+        "editorSuggestWidget.selectedBackground": "#4d5d6c",
+        "editorSuggestWidget.highlightForeground": "#d6d8d9",
 
         "input.background": "#1c2939",
         "input.border": "#1c2939",
