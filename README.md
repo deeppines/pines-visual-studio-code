@@ -1,7 +1,8 @@
 # PINES
-[![GitHub version](https://badge.fury.io/gh/deeppines%2Fpines-visual-studio-code.svg)](https://github.com/deeppines/pines-visual-studio-code)
----
 Dark theme for Visual Studio Code
+---
+[![GitHub version](https://badge.fury.io/gh/deeppines%2Fpines-visual-studio-code.svg)](https://github.com/deeppines/pines-visual-studio-code)
+
 
 ### UI Color Palette
 
