@@ -2,8 +2,17 @@
     "name": "pines",
     "type": "dark",
     "colors": {
+        "foreground": "#d6d8d9",
+
         "editor.background": "#253447",
         "editor.foreground": "#d6d8d9",
+        
+        "editorCodeLens.foreground": "#ff0000",
+
+        "input.background": "#1c2939",
+        "input.border": "#1c2939",
+        "input.foreground": "#d6d8d9",
+        "input.placeholderForeground": "#4d5d6c",
 
         "dropdown.background": "#1c2939",
         "dropdown.border": "#1c2939",
