@@ -5,6 +5,9 @@
         "editor.background": "#253447",
         "editor.foreground": "#d6d8d9",
 
+        "welcomePage.buttonBackground": "#1c2939",
+        "welcomePage.buttonHoverBackground": "#4d5d6c",
+
         "editorGroup.background": "#253447",
         "editorGroup.dropBackground": "#222e3faa",
         "editorGroup.border": "#1c2939",
