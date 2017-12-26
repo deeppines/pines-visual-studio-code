@@ -20,6 +20,7 @@
     "engines": {
         "vscode": "^1.19.0"
     },
+    "icon": "assets/pines-visual-studio-code-icon-marketplace.png",
     "markdown": "github",
     "categories": [
         "Themes"
