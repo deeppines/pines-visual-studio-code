@@ -5,7 +5,8 @@
     "version": "0.0.1",
     "publisher": "deeppines",
     "author": {
-        "name": "deeppines"
+        "name": "deeppines",
+        "email": "egorkir41@gmail.com"
     },
     "homepage": "https://github.com/deeppines/pines-visual-studio-code",
     "repository": {
