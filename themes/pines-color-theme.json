@@ -6,9 +6,23 @@
 
         "editor.background": "#253447",
         "editor.foreground": "#d6d8d9",
+        "editorCursor.background": "#4d5d6c",
+        "editorCursor.foreground": "#d6d8d9",
         "editorWidget.background": "#1c2939",
         "editorWidget.border": "#4d5d6c",
+        "editorGutter.background": "#253447",
+        "editorGutter.addedBackground": "#3bbb3ba9",
+        "editorGutter.modifiedBackground": "#4598bf",
+        "editorGutter.deletedBackground": "#d44b74",
+
         "editorLineNumber.foreground": "#4d5d6c",
+        "editorWhitespace.foreground": "#4d5d6c",
+        "editorIndentGuide.background": "#4d5d6c",
+
+        "editor.lineHighlightBackground": "#1c29397e",
+        "editor.lineHighlightBorder": "#253447",
+
+        "editor.hoverHighlightBackground": "#4d5d6caf",
 
         "editorHoverWidget.background": "#1c2939",
         "editorHoverWidget.border": "#4d5d6c",
@@ -18,6 +32,7 @@
         "editorSuggestWidget.border": "#4d5d6c",
         "editorSuggestWidget.selectedBackground": "#4d5d6c",
         "editorSuggestWidget.highlightForeground": "#d6d8d9",
+
 
         "input.background": "#1c2939",
         "input.border": "#1c2939",
