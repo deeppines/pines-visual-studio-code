@@ -6,6 +6,8 @@
 
         "editor.background": "#253447",
         "editor.foreground": "#d6d8d9",
+        "editorWidget.background": "#1c2939",
+        "editorWidget.border": "#4d5d6c",
         "editorLineNumber.foreground": "#4d5d6c",
 
         "editorHoverWidget.background": "#1c2939",
