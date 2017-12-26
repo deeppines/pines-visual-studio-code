@@ -10,6 +10,9 @@
         "editorCodeLens.foreground": "#ff0000",
         "editorLineNumber.foreground": "#4d5d6c",
 
+        "editorHoverWidget.background": "#1c2939",
+        "editorHoverWidget.border": "#4d5d6c",
+
         "input.background": "#1c2939",
         "input.border": "#1c2939",
         "input.foreground": "#d6d8d9",
