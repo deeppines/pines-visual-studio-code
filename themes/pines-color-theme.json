@@ -7,7 +7,7 @@
         "widget.shadow": "#000000ff",
         "selection.background": "#1c293999",
         "descriptionForeground": "#d6d8d9",
-        "errorForeground": "#bf616a",
+        "errorForeground": "#962D3E",
 
         "textBlockQuote.background": "#1c2939",
         "textBlockQuote.border": "#1c2939",
@@ -92,33 +92,49 @@
         "tab.unfocusedActiveForeground": "#d6d8d9",
         "tab.unfocusedInactiveForeground": "#4d5d6c",
 
-
-
-
-
-
-
-
-
-
-
         "editor.background": "#253447",
         "editor.foreground": "#d6d8d9",
+        "editorLineNumber.foreground": "#4d5d6c",
         "editorCursor.background": "#4d5d6c",
         "editorCursor.foreground": "#d6d8d9",
+        "editor.selectionBackground": "#4b7690",
+        "editor.selectionForeground": "#ffffff",
+        "editor.selectionHighlightBackground": "#4b769070",
+        "editor.inactiveSelectionBackground": "#4b7690",
+        "editor.findMatchBackground": "#4b7690",
+        "editor.findMatchHighlightBackground": "#4b769070",
+        "editor.hoverHighlightBackground": "#4d5d6caf",
+        "editor.lineHighlightBackground": "#1c29397e",
+        "editor.lineHighlightBorder": "#253447",
+        "editorLink.activeForeground": "#4598bf",
+        "editor.rangeHighlightBackground": "#4b769070",
+        "editorWhitespace.foreground": "#4d5d6c",
+        "editorIndentGuide.background": "#4d5d6c",
+        "editorRuler.foreground": "#d6d8d9",
+        "editorCodeLens.foreground": "#ff0000",
+        "editorBracketMatch.background": "#1c2939",
+        "editorBracketMatch.border": "#4d5d6c",
+        
+        
         "editorWidget.background": "#1c2939",
         "editorWidget.border": "#4d5d6c",
+
+
+
+
+
+
+
+
+
+
+
+        
         "editorGutter.background": "#253447",
         "editorGutter.addedBackground": "#3bbb3ba9",
         "editorGutter.modifiedBackground": "#4598bf",
         "editorGutter.deletedBackground": "#d44b74",
-        "editorLineNumber.foreground": "#4d5d6c",
-        "editorWhitespace.foreground": "#4d5d6c",
-        "editorIndentGuide.background": "#4d5d6c",
-        "editor.lineHighlightBackground": "#1c29397e",
-        "editor.lineHighlightBorder": "#253447",
 
-        "editor.hoverHighlightBackground": "#4d5d6caf",
 
         "editorHoverWidget.background": "#1c2939",
         "editorHoverWidget.border": "#4d5d6c",
