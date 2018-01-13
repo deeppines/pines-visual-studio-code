@@ -68,6 +68,14 @@
         "activityBarBadge.background": "#4598bf",
         "activityBarBadge.foreground": "#d6d8d9",
 
+        "sideBar.background": "#253447",
+        "sideBar.foreground": "#d6d8d9",
+        "sideBar.border": "#253447",
+        "sideBar.dropBackground": "#4d5d6c",
+        "sideBarTitle.foreground": "#d6d8d9",
+        "sideBarSectionHeader.background": "#1c2939",
+        "sideBarSectionHeader.foreground": "#d6d8d9",
+
 
 
 
@@ -153,13 +161,7 @@
         "panelTitle.activeForeground": "#d6d8d9",
         "panelTitle.inactiveForeground": "#d6d8d9",
 
-        "sideBarTitle.foreground": "#d6d8d9",
-        "sideBar.background": "#253447",
-        "sideBar.foreground": "#d6d8d9",
-        "sideBar.border": "#253447",
-        "sideBarSectionHeader.background": "#1c2939",
-        "sideBarSectionHeader.foreground": "#d6d8d9",
-        "sideBar.dropBackground": "#4d5d6c",
+        
 
         
 
