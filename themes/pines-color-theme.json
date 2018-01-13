@@ -114,6 +114,29 @@
         "editorCodeLens.foreground": "#ff0000",
         "editorBracketMatch.background": "#1c2939",
         "editorBracketMatch.border": "#4d5d6c",
+        "editorOverviewRuler.border": "#253447",
+        "editorOverviewRuler.findMatchForeground": "#962D3E",
+        "editorOverviewRuler.rangeHighlightForeground": "#d6d8d9",
+        "editorOverviewRuler.selectionHighlightForeground": "#979C9C",
+        "editorOverviewRuler.wordHighlightForeground": "#979C9C",
+        "editorOverviewRuler.wordHighlightStrongForeground": "#979C9C",
+        "editorOverviewRuler.modifiedForeground": "#F2EBC7",
+        "editorOverviewRuler.addedForeground": "#16a085",
+        "editorOverviewRuler.deletedForeground": "#962D3E",
+        "editorOverviewRuler.errorForeground": "#962D3E",
+        "editorOverviewRuler.warningForeground": "#F2EBC7",
+        "editorOverviewRuler.infoForeground": "#348899",
+        "editorError.foreground": "#962D3E",
+        "editorError.border": "#962D3E00",
+        "editorWarning.foreground": "#F2EBC7",
+        "editorWarning.border": "#F2EBC700",
+        "editorInfo.foreground": "#348899",
+        "editorInfo.border": "#34889900",
+        "editorGutter.background": "#253447",
+        "editorGutter.modifiedBackground": "#348899",
+        "editorGutter.addedBackground": "#16a085",
+        "editorGutter.deletedBackground": "#962D3E",
+        
         
         
         "editorWidget.background": "#1c2939",
@@ -129,11 +152,7 @@
 
 
 
-        
-        "editorGutter.background": "#253447",
-        "editorGutter.addedBackground": "#3bbb3ba9",
-        "editorGutter.modifiedBackground": "#4598bf",
-        "editorGutter.deletedBackground": "#d44b74",
+
 
 
         "editorHoverWidget.background": "#1c2939",
