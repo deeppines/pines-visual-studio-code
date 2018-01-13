@@ -1,4 +1,4 @@
-{
+           {
     "name": "pines",
     "type": "dark",
     "colors": {
@@ -134,6 +134,9 @@
         "statusBar.debuggingBackground": "#1c2939",
         "statusBar.debuggingBorder": "#1c2939",
         "statusBar.debuggingForeground": "#d6d8d9",
+
+        "statusBarItem.hoverBackground": "#253447",
+        "statusBarItem.activeBackground": "#253447a1",
 
         "titleBar.border": "#1c2939",
         "titleBar.activeBackground": "#1c2939",
