@@ -142,24 +142,32 @@
         "diffEditor.removedTextBackground": "#962D3E4D",
         "diffEditor.removedTextBorder": "#962D3E4D",
 
-
-
-
-
-
-
-
         "editorWidget.background": "#1c2939",
         "editorWidget.border": "#4d5d6c",
-
+        "editorSuggestWidget.background": "#1c2939",
+        "editorSuggestWidget.border": "#4d5d6c",
+        "editorSuggestWidget.foreground": "#d6d8d9",
+        "editorSuggestWidget.highlightForeground": "#d6d8d9",
+        "editorSuggestWidget.selectedBackground": "#4d5d6c",
         "editorHoverWidget.background": "#1c2939",
         "editorHoverWidget.border": "#4d5d6c",
 
-        "editorSuggestWidget.background": "#1c2939",
-        "editorSuggestWidget.foreground": "#d6d8d9",
-        "editorSuggestWidget.border": "#4d5d6c",
-        "editorSuggestWidget.selectedBackground": "#4d5d6c",
-        "editorSuggestWidget.highlightForeground": "#d6d8d9",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         "terminal.background": "#253447",
         "terminal.foreground": "#d6d8d9",
