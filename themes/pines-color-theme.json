@@ -177,6 +177,9 @@
                 "foreground": "#546E7A"
             }
         },
+
+
+        
         {
             "name": "Variables",
             "scope": [
