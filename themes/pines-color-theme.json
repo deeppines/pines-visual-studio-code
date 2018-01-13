@@ -42,6 +42,25 @@
         "scrollbarSlider.background": "#1c293999",
         "scrollbarSlider.hoverBackground": "#1c2939dd",
 
+        "badge.background": "#1c2939",
+        "badge.foreground": "#d6d8d9",
+
+        "progressBar.background": "#1c2939",
+
+        "list.activeSelectionBackground": "#1c2939",
+        "list.activeSelectionForeground": "#d6d8d9",
+        "list.inactiveFocusBackground": "#4d5d6c",
+        "list.inactiveFocusForeground": "#d6d8d9",
+        "list.inactiveSelectionBackground": "#4d5d6c",
+        "list.inactiveSelectionForeground": "#d6d8d9",
+        "list.hoverBackground": "#1c2939",
+        "list.hoverForeground": "#d6d8d9",
+        "list.dropBackground": "#1c2939cc",
+        "list.focusBackground": "#1c2939",
+        "list.focusForeground": "#d6d8d9",
+        "list.highlightForeground": "#962D3E",
+        "list.invalidItemForeground": "#962D3E",
+
 
 
 
@@ -106,24 +125,7 @@
 
         
 
-        "list.activeSelectionBackground": "#1c2939",
-        "list.activeSelectionForeground": "#d6d8d9",
-        "list.inactiveFocusBackground": "#4d5d6c",
-        "list.inactiveFocusForeground": "#d6d8d9",
-        "list.inactiveSelectionBackground": "#4d5d6c",
-        "list.inactiveSelectionForeground": "#d6d8d9",
-        "list.hoverBackground": "#1c2939",
-        "list.hoverForeground": "#d6d8d9",
-        "list.dropBackground": "#1c2939cc",
-        "list.focusBackground": "#1c2939",
-        "list.focusForeground": "#d6d8d9",
-        "list.highlightForeground": "#d44b74",
-        "list.invalidItemForeground": "#d44b74",
-
         
-
-        "badge.background": "#1c2939",
-        "badge.foreground": "#d6d8d9",
 
         "welcomePage.buttonBackground": "#1c2939",
         "welcomePage.buttonHoverBackground": "#4d5d6c",
