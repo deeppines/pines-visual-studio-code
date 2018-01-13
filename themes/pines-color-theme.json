@@ -1,4 +1,4 @@
-           {
+{
     "name": "pines",
     "type": "dark",
     "colors": {
@@ -179,7 +179,7 @@
         },
 
 
-        
+
         {
             "name": "Variables",
             "scope": [
