@@ -136,24 +136,18 @@
         "editorGutter.modifiedBackground": "#348899",
         "editorGutter.addedBackground": "#16a085",
         "editorGutter.deletedBackground": "#962D3E",
-        
-        
-        
+
+
+
+
+
+
+
+
+
+
         "editorWidget.background": "#1c2939",
         "editorWidget.border": "#4d5d6c",
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         "editorHoverWidget.background": "#1c2939",
         "editorHoverWidget.border": "#4d5d6c",
@@ -189,16 +183,8 @@
         "gitDecoration.ignoredResourceForeground": "#d6d8d9bb",
         "gitDecoration.conflictingResourceForeground": "#ff0000",
 
-        
-
-        
-
         "welcomePage.buttonBackground": "#1c2939",
         "welcomePage.buttonHoverBackground": "#4d5d6c",
-
-        
-        
-
 
         "panel.background": "#253447",
         "panel.border": "#253447",
@@ -206,10 +192,6 @@
         "panelTitle.activeBorder": "#d6d8d9",
         "panelTitle.activeForeground": "#d6d8d9",
         "panelTitle.inactiveForeground": "#d6d8d9",
-
-        
-
-        
 
         "statusBar.background": "#1c2939",
         "statusBar.border": "#1c2939",
