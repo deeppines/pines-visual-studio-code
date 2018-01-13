@@ -76,6 +76,22 @@
         "sideBarSectionHeader.background": "#1c2939",
         "sideBarSectionHeader.foreground": "#d6d8d9",
 
+        "editorGroup.background": "#253447",
+        "editorGroup.border": "#1c2939",
+        "editorGroup.dropBackground": "#222e3faa",
+        "editorGroupHeader.noTabsBackground": "#1c2939",
+        "editorGroupHeader.tabsBackground": "#1c2939",
+        "editorGroupHeader.tabsBorder": "#253447",
+        "tab.activeBackground": "#253447",
+        "tab.activeForeground": "#d6d8d9",
+        "tab.border": "#253447",
+        "tab.activeBorder": "#253447",
+        "tab.unfocusedActiveBorder": "#253447",
+        "tab.inactiveBackground": "#1c2939",
+        "tab.inactiveForeground": "#4d5d6c",
+        "tab.unfocusedActiveForeground": "#d6d8d9",
+        "tab.unfocusedInactiveForeground": "#4d5d6c",
+
 
 
 
@@ -145,13 +161,8 @@
         "welcomePage.buttonBackground": "#1c2939",
         "welcomePage.buttonHoverBackground": "#4d5d6c",
 
-        "editorGroup.background": "#253447",
-        "editorGroup.dropBackground": "#222e3faa",
-        "editorGroup.border": "#1c2939",
-
-        "editorGroupHeader.tabsBackground": "#1c2939",
-        "editorGroupHeader.noTabsBackground": "#1c2939",
-        "editorGroupHeader.tabsBorder": "#253447",
+        
+        
 
 
         "panel.background": "#253447",
@@ -182,17 +193,8 @@
         "titleBar.activeBackground": "#1c2939",
         "titleBar.activeForeground": "#d6d8d9",
         "titleBar.inactiveBackground": "#1c2939",
-        "titleBar.inactiveForeground": "#4d5d6c",
+        "titleBar.inactiveForeground": "#4d5d6c"
 
-        "tab.border": "#253447",
-        "tab.activeBackground": "#253447",
-        "tab.activeBorder": "#253447",
-        "tab.activeForeground": "#d6d8d9",
-        "tab.inactiveBackground": "#1c2939",
-        "tab.inactiveForeground": "#4d5d6c",
-        "tab.unfocusedActiveBorder": "#253447",
-        "tab.unfocusedActiveForeground": "#d6d8d9",
-        "tab.unfocusedInactiveForeground": "#4d5d6c"
     },
 
     "tokenColors": [
