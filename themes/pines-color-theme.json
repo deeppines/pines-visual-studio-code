@@ -137,7 +137,10 @@
         "editorGutter.addedBackground": "#16a085",
         "editorGutter.deletedBackground": "#962D3E",
 
-
+        "diffEditor.insertedTextBackground": "#16a0854d",
+        "diffEditor.insertedTextBorder": "#16a0854d",
+        "diffEditor.removedTextBackground": "#962D3E4D",
+        "diffEditor.removedTextBorder": "#962D3E4D",
 
 
 
