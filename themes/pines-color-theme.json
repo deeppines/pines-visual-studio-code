@@ -4,6 +4,10 @@
     "colors": {
         "foreground": "#d6d8d9",
         "descriptionForeground": "#d6d8d9",
+        "contrastActiveBorder": "#ff000000",
+        "contrastBorder": "#ff000000",
+
+        "notification.background": "#1c2939",
 
         "editor.background": "#253447",
         "editor.foreground": "#d6d8d9",
@@ -154,6 +158,7 @@
         "tab.unfocusedActiveForeground": "#d6d8d9",
         "tab.unfocusedInactiveForeground": "#4d5d6c"
     },
+
     "tokenColors": [
         {
             "settings": {
