@@ -166,6 +166,17 @@
         "peekViewTitleDescription.foreground": "#d6d8d9",
         "peekViewTitleLabel.foreground": "#d6d8d9",
 
+        "merge.commonHeaderBackground": "#16a085",
+        "merge.commonContentBackground": "#16a08470",
+        "merge.incomingHeaderBackground": "#4598bf",
+        "merge.incomingContentBackground": "#4598bf70",
+        "merge.border": "#1c293900",
+        "merge.currentContentBackground": "#ff0000",
+        "merge.currentHeaderBackground": "#ff0000",
+        "editorOverviewRuler.currentContentForeground": "#4d5d6c",
+        "editorOverviewRuler.incomingContentForeground": "#4d5d6c",
+        "editorOverviewRuler.commonContentForeground": "#ff0000",
+
 
 
 
