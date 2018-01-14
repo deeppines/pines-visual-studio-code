@@ -249,9 +249,9 @@
         "walkThrough.embeddedEditorBackground": "#1c2939",
 
         "gitDecoration.untrackedResourceForeground": "#2ecc71",
-        "gitDecoration.modifiedResourceForeground": "#f1c40f",
+        "gitDecoration.modifiedResourceForeground": "#F2EBC7",
         "gitDecoration.deletedResourceForeground": "#e74c3c",
-        "gitDecoration.ignoredResourceForeground": "#95a5a6",
+        "gitDecoration.ignoredResourceForeground": "#979C9C",
         "gitDecoration.conflictingResourceForeground": "#962D3E"
     },
 
@@ -273,29 +273,6 @@
                 "foreground": "#546E7A"
             }
         },
-        {
-            "name": "Keyword Operator",
-            "scope": "keyword.operator",
-            "settings": {
-                "foreground": "#d6d8d9"
-            }
-        },
-
-
-
-        {
-            "name": "Tag",
-            "scope": [
-                "entity.name.tag",
-                "meta.tag.sgml",
-                "markup.deleted.git_gutter"
-            ],
-            "settings": {
-                "foreground": "#4C9B84"
-            }
-        },
-
-
         {
             "name": "Variables",
             "scope": [
@@ -336,7 +313,37 @@
                 "foreground": "#C792EA"
             }
         },
-        
+        {
+            "name": "Operator, Misc",
+            "scope": [
+                "keyword.control",
+                "constant.other.color",
+                "punctuation",
+                "meta.tag",
+                "punctuation.definition.tag",
+                "punctuation.separator.inheritance.php",
+                "punctuation.definition.tag.html",
+                "punctuation.definition.tag.begin.html",
+                "punctuation.definition.tag.end.html",
+                "punctuation.section.embedded",
+                "keyword.other.template",
+                "keyword.other.substitution"
+            ],
+            "settings": {
+                "foreground": "#89DDFF"
+            }
+        },
+        {
+            "name": "Tag",
+            "scope": [
+                "entity.name.tag",
+                "meta.tag.sgml",
+                "markup.deleted.git_gutter"
+            ],
+            "settings": {
+                "foreground": "#f07178"
+            }
+        },
         {
             "name": "Function, Special Method",
             "scope": [
