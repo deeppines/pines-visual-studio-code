@@ -29,6 +29,28 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "dark",
+        "UI",
+        "bluish",
+        "clean"
+    ],
+    "badges": [{
+            "url": "https://vsmarketplacebadge.apphb.com/version/deeppines.pines-visual-studio-code.svg",
+            "href": "https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code",
+            "description": "Extension version"
+        },
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/installs/deeppines.pines-visual-studio-code.svg",
+            "href": "https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code",
+            "description": "Extension installs"
+        },
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/rating/deeppines.pines-visual-studio-code.svg",
+            "href": "https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code",
+            "description": "Extension Rating"
+        }
+    ],
     "contributes": {
         "themes": [
             {
