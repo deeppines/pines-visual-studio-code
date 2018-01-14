@@ -16,5 +16,5 @@ Dark theme for Visual Studio Code
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/deeppines/pines-visual-studio-code/issues).
 
-<p align="center">Copyright &copy; 2017 <a href="https://github.com/deeppines">deeppines</a></p>
+<p align="center">Copyright &copy; 2017 - 2018 <a href="https://github.com/deeppines">deeppines</a></p>
 <p align="center"><a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a></p>
