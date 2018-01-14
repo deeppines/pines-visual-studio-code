@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Language="en-US" Id="pines-visual-studio-code" Version="0.0.3" Publisher="deeppines"/>
-    <DisplayName>Nord</DisplayName>
+    <DisplayName>Pines</DisplayName>
     <Description xml:space="preserve">Dark theme UI for Visual Studio Code</Description>
     <Tags>dark, UI, bluish, clean</Tags>
     <Categories>Themes</Categories>
