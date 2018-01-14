@@ -15,8 +15,6 @@ Paste the following command and press `Enter`:
 ext install pines-visual-studio-code
 ```
 
-## Screenshots
-
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/deeppines/pines-visual-studio-code/issues).
 
