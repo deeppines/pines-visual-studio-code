@@ -2,9 +2,18 @@
 <h1 align="center">PINES</h1>
 <br>
 <p align="center">
-  <img src="https://vsmarketplacebadge.apphb.com/version-short/deeppines.pines-visual-studio-code.svg">
-  <img src="https://vsmarketplacebadge.apphb.com/installs/deeppines.pines-visual-studio-code.svg">
-  <img src="https://vsmarketplacebadge.apphb.com/rating-short/deeppines.pines-visual-studio-code.svg">
+  <a href="https://github.com/deeppines/pines-visual-studio-code/releases">
+    <img src="https://img.shields.io/github/release/deeppines/pines-visual-studio-code.svg">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
+    <img src="https://vsmarketplacebadge.apphb.com/version-short/deeppines.pines-visual-studio-code.svg">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
+    <img src="https://vsmarketplacebadge.apphb.com/installs/deeppines.pines-visual-studio-code.svg">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
+    <img src="https://vsmarketplacebadge.apphb.com/rating-short/deeppines.pines-visual-studio-code.svg">
+  </a>
 </p>
 <p align="center"> Dark theme UI for Visual Studio Code</p>
 <br>
