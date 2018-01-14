@@ -1,5 +1,6 @@
 # PINES
 ## Dark theme UI for Visual Studio Code
+<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png"/>
 
 ## Getting started
 ### Installation
