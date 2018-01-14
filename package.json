@@ -1,37 +1,46 @@
 {
-    "name": "pines-visual-studio-code",
-    "displayName": "Pines",
-    "description": "Dark theme UI for Visual Studio Code",
-    "version": "0.0.1",
-    "publisher": "deeppines",
-    "author": {
-        "name": "deeppines",
-        "email": "egorkir41@gmail.com"
+	"name": "pines-visual-studio-code",
+	"displayName": "Pines",
+	"description": "Dark theme UI for Visual Studio Code",
+	"version": "0.0.1",
+	"publisher": "deeppines",
+	"author": {
+		"name": "deeppines",
+		"email": "egorkir41@gmail.com"
+	},
+	"homepage": "https://github.com/deeppines/pines-visual-studio-code",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/deeppines/pines-visual-studio-code"
+	},
+	"bugs": {
+		"url": "https://github.com/deeppines/pines-visual-studio-code/issues"
+	},
+	"license": "https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE",
+	"engines": {
+		"vscode": "^1.19.0"
     },
-    "homepage": "https://github.com/deeppines/pines-visual-studio-code",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/deeppines/pines-visual-studio-code"
+    "galleryBanner": {
+        "color": "#1c2939",
+        "theme": "dark"
     },
-    "bugs": {
-        "url": "https://github.com/deeppines/pines-visual-studio-code/issues"
-    },
-    "license": "https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE",
-    "engines": {
-        "vscode": "^1.19.0"
-    },
-    "icon": "assets/pines-visual-studio-code-icon-marketplace.png",
-    "markdown": "github",
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Pines",
-                "uiTheme": "vs-dark",
-                "path": "./themes/pines-color-theme.json"
-            }
-        ]
-    }
+	"icon": "assets/pines-visual-studio-code-icon-marketplace.png",
+	"markdown": "github",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Pines",
+				"uiTheme": "vs-dark",
+				"path": "./themes/pines-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "4de2a797-257e-4f9e-94b8-ec6a9e2f3019",
+		"publisherDisplayName": "Lucas Kane",
+		"publisherId": "3b64b9e9-724d-4b7b-a24d-0c39505e91b9"
+	}
 }
