@@ -248,11 +248,11 @@
         "welcomePage.buttonHoverBackground": "#4d5d6c",
         "walkThrough.embeddedEditorBackground": "#1c2939",
 
-        "gitDecoration.untrackedResourceForeground": "#3bbb3b",
-        "gitDecoration.modifiedResourceForeground": "#4598bf",
-        "gitDecoration.deletedResourceForeground": "#d44b74",
-        "gitDecoration.ignoredResourceForeground": "#d6d8d9bb",
-        "gitDecoration.conflictingResourceForeground": "#ff0000"
+        "gitDecoration.untrackedResourceForeground": "#2ecc71",
+        "gitDecoration.modifiedResourceForeground": "#f1c40f",
+        "gitDecoration.deletedResourceForeground": "#e74c3c",
+        "gitDecoration.ignoredResourceForeground": "#95a5a6",
+        "gitDecoration.conflictingResourceForeground": "#962D3E"
     },
 
     "tokenColors": [
