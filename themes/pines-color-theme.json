@@ -198,7 +198,11 @@
         "statusBarItem.prominentBackground": "#4d5d6c",
         "statusBarItem.prominentHoverBackground": "#253447",
 
-
+        "titleBar.activeBackground": "#1c2939",
+        "titleBar.activeForeground": "#d6d8d9",
+        "titleBar.inactiveBackground": "#1c2939",
+        "titleBar.inactiveForeground": "#4d5d6c",
+        "titleBar.border": "#1c2939",
 
 
 
@@ -235,17 +239,7 @@
         "gitDecoration.conflictingResourceForeground": "#ff0000",
 
         "welcomePage.buttonBackground": "#1c2939",
-        "welcomePage.buttonHoverBackground": "#4d5d6c",
-
-        
-
-        
-
-        "titleBar.border": "#1c2939",
-        "titleBar.activeBackground": "#1c2939",
-        "titleBar.activeForeground": "#d6d8d9",
-        "titleBar.inactiveBackground": "#1c2939",
-        "titleBar.inactiveForeground": "#4d5d6c"
+        "welcomePage.buttonHoverBackground": "#4d5d6c"
 
     },
 
