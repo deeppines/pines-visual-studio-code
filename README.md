@@ -1,5 +1,8 @@
-# PINES
-## Dark theme UI for Visual Studio Code
+<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-visual-studio-code-icon-marketplace.png"/>
+<h1 align="center">PINES</h1>
+<br>
+<p align="center"> Dark theme UI for Visual Studio Code</p>
+<br>
 <p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png"/>
 
 ## Getting started
