@@ -152,7 +152,19 @@
         "editorHoverWidget.background": "#1c2939",
         "editorHoverWidget.border": "#4d5d6c",
 
-
+        "peekView.border": "#4d5d6c",
+        "peekViewEditor.background": "#1c2939",
+        "peekViewEditorGutter.background": "#1c2939",
+        "peekViewResult.matchHighlightBackground": "#4598bf",
+        "peekViewResult.background": "#253447",
+        "peekViewResult.fileForeground": "#4598bf",
+        "peekViewResult.lineForeground": "#4598bf66",
+        "peekViewEditor.matchHighlightBackground": "#F2EBC7",
+        "peekViewResult.selectionBackground": "#1c2939",
+        "peekViewResult.selectionForeground": "#d6d8d9",
+        "peekViewTitle.background": "#1c2939",
+        "peekViewTitleDescription.foreground": "#d6d8d9",
+        "peekViewTitleLabel.foreground": "#d6d8d9",
 
 
 
