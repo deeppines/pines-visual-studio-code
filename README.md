@@ -1,6 +1,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-visual-studio-code-icon-marketplace.png"/>
 <h1 align="center">PINES</h1>
 <br>
+<p align="center">
+  <img src="https://vsmarketplacebadge.apphb.com/version-short/deeppines.pines-visual-studio-code.svg">
+  <img src="https://vsmarketplacebadge.apphb.com/installs/deeppines.pines-visual-studio-code.svg">
+  <img src="https://vsmarketplacebadge.apphb.com/rating-short/deeppines.pines-visual-studio-code.svg">
+</p>
 <p align="center"> Dark theme UI for Visual Studio Code</p>
 <br>
 <p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png"/>
