@@ -204,7 +204,17 @@
         "titleBar.inactiveForeground": "#4d5d6c",
         "titleBar.border": "#1c2939",
 
-
+        "notification.background": "#1c2939",
+        "notification.foreground": "#d6d8d9",
+        "notification.buttonBackground": "#4598bf",
+        "notification.buttonForeground": "#d6d8d9",
+        "notification.buttonHoverBackground": "#4598bfcb",
+        "notification.errorBackground": "#962D3E",
+        "notification.errorForeground": "#d6d8d9",
+        "notification.infoBackground": "#348899",
+        "notification.infoForeground": "#d6d8d9",
+        "notification.warningBackground": "#F2EBC7",
+        "notification.warningForeground": "#4b7690",
 
 
 
