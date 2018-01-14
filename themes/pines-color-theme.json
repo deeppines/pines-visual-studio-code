@@ -216,7 +216,9 @@
         "notification.warningBackground": "#F2EBC7",
         "notification.warningForeground": "#4b7690",
 
-
+        "extensionButton.prominentForeground": "#d6d8d9",
+        "extensionButton.prominentBackground": "#4598bf",
+        "extensionButton.prominentHoverBackground": "#d44b74",
 
 
 
