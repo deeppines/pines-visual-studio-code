@@ -1,5 +1,5 @@
 # PINES
-##Dark theme UI for Visual Studio Code
+## Dark theme UI for Visual Studio Code
 
 ## Getting started
 ### Installation
