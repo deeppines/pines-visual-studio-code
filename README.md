@@ -1,26 +1,26 @@
-<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-visual-studio-code-icon-marketplace.png"/>
+<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-visual-studio-code-icon-marketplace.png" />
 <h1 align="center">PINES</h1>
 <br>
 <p align="center">
   <a href="https://github.com/deeppines/pines-visual-studio-code/releases">
-    <img src="https://img.shields.io/github/release/deeppines/pines-visual-studio-code.svg">
+    <img src="https://img.shields.io/github/release/deeppines/pines-visual-studio-code.svg" />
   </a>
   <a href="https://code.visualstudio.com/updates/v1_19" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/VS_Code-v1.19+-373277.svg">
+    <img src="https://img.shields.io/badge/VS_Code-v1.19+-373277.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
-    <img src="https://vsmarketplacebadge.apphb.com/version-short/deeppines.pines-visual-studio-code.svg">
+    <img src="https://vsmarketplacebadge.apphb.com/version-short/deeppines.pines-visual-studio-code.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
-    <img src="https://vsmarketplacebadge.apphb.com/installs/deeppines.pines-visual-studio-code.svg">
+    <img src="https://vsmarketplacebadge.apphb.com/installs/deeppines.pines-visual-studio-code.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
-    <img src="https://vsmarketplacebadge.apphb.com/rating-short/deeppines.pines-visual-studio-code.svg">
+    <img src="https://vsmarketplacebadge.apphb.com/rating-short/deeppines.pines-visual-studio-code.svg" />
   </a>
 </p>
 <p align="center">Dark theme UI for Visual Studio Code</p>
 <br>
-<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png"/>
+<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" />
 
 ## Getting started
 You can install this theme through the [Visual Studio Code Marketplace.][short-marketplace-deeppines]
@@ -30,9 +30,9 @@ You can install this theme through the [Visual Studio Code Marketplace.][short-m
 
 Launch *Quick Open*
 
-* <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> [Linux][short-linux] `Ctrl+P`
-* <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> [macOS][short-macos] `⌘P`
-* <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> [Windows][short-windows] `Ctrl+P`
+* <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16 /> [Linux][short-linux] `Ctrl+P`
+* <img src="https://developer.apple.com/favicon.ico" width=16 height=16 /> [macOS][short-macos] `⌘P`
+* <img src="https://www.microsoft.com/favicon.ico" width=16 height=16 /> [Windows][short-windows] `Ctrl+P`
 
 Paste the following command and press `Enter`:
 ```shell
