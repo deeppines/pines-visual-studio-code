@@ -26,7 +26,7 @@
 You can install this theme through the [Visual Studio Code Marketplace.][short-marketplace-deeppines]
 
 ## Installation
-#### <img src="https://marketplace.visualstudio.com/favicon.ico" width=16 height=16/> [VS Code Extension Marketplace][short-marketplace]
+#### <img src="https://marketplace.visualstudio.com/favicon.ico" width=16 height=16 /> [VS Code Extension Marketplace][short-marketplace]
 
 Launch *Quick Open*
 
