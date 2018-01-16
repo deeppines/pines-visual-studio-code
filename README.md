@@ -19,7 +19,10 @@
   </a>
 </p>
 <p align="center">Dark theme UI for Visual Studio Code</p>
-<br>
+<p align="center">Copyright &copy; 2018 deeppines</p>
+<p align="center">
+  <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
+</p>
 <p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" />
 
 ## Getting started
@@ -41,11 +44,6 @@ ext install pines-visual-studio-code
 
 ## Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/deeppines/pines-visual-studio-code/issues).
-
-<p align="center">Copyright &copy; 2018 deeppines</p>
-<p align="center">
-  <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
-</p>
 
 [short-marketplace-deeppines]:https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code
 [short-marketplace]:https://code.visualstudio.com/docs/editor/extension-gallery
