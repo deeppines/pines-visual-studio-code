@@ -2,7 +2,7 @@
     "name": "pines-visual-studio-code",
     "displayName": "Pines",
     "description": "Dark theme UI for Visual Studio Code",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "deeppines",
     "author": {
         "name": "deeppines",
@@ -35,7 +35,8 @@
         "bluish",
         "clean"
     ],
-    "badges": [{
+    "badges": [
+        {
             "url": "https://vsmarketplacebadge.apphb.com/version/deeppines.pines-visual-studio-code.svg",
             "href": "https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code",
             "description": "Extension version"
