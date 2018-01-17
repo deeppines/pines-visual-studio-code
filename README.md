@@ -25,11 +25,13 @@
 </p>
 <p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" />
 
-## Getting started
+# Getting started
+
 You can install this theme through the [Visual Studio Code Marketplace.][short-marketplace-deeppines]
 
 ## Installation
-#### <img src="https://marketplace.visualstudio.com/favicon.ico" width=16 height=16 /> [VS Code Extension Marketplace][short-marketplace]
+
+### <img src="https://marketplace.visualstudio.com/favicon.ico" width=16 height=16 /> [VS Code Extension Marketplace][short-marketplace]
 
 Launch *Quick Open*
 
@@ -38,11 +40,13 @@ Launch *Quick Open*
 * <img src="https://www.microsoft.com/favicon.ico" width=16 height=16 /> [Windows][short-windows] `Ctrl+P`
 
 Paste the following command and press `Enter`:
+
 ```shell
 ext install pines-visual-studio-code
 ```
 
 ## Contribution
+
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/deeppines/pines-visual-studio-code/issues).
 
 [short-marketplace-deeppines]:https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code
