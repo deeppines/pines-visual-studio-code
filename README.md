@@ -19,11 +19,13 @@
   </a>
 </p>
 <p align="center">Dark theme UI for Visual Studio Code</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" />
+
 <p align="center">Copyright &copy; 2018 deeppines</p>
 <p align="center">
   <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
 </p>
-<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" />
 
 # Getting started
 
