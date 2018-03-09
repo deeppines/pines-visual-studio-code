@@ -223,18 +223,6 @@
         "titleBar.inactiveForeground": "#4d5d6c",
         "titleBar.border": "#1c2939",
 
-        "notification.background": "#1c2939",
-        "notification.foreground": "#d6d8d9",
-        "notification.buttonBackground": "#118ab2",
-        "notification.buttonForeground": "#d6d8d9",
-        "notification.buttonHoverBackground": "#118ab2d5",
-        "notification.errorBackground": "#962d3e",
-        "notification.errorForeground": "#d6d8d9",
-        "notification.infoBackground": "#118ab2",
-        "notification.infoForeground": "#d6d8d9",
-        "notification.warningBackground": "#f0c808",
-        "notification.warningForeground": "#d6d8d9",
-
         "extensionButton.prominentForeground": "#ffffff",
         "extensionButton.prominentBackground": "#118ab2",
         "extensionButton.prominentHoverBackground": "#962d3e",
