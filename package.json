@@ -1,6 +1,6 @@
 {
-    "name": "pines-visual-studio-code-test",
-    "displayName": "Pines-test",
+    "name": "pines-visual-studio-code",
+    "displayName": "Pines",
     "description": "Dark theme UI for Visual Studio Code",
     "version": "0.0.5",
     "publisher": "deeppines",
