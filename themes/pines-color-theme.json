@@ -25,6 +25,7 @@
         "button.hoverBackground": "#4d5d6c",
 
         "dropdown.background": "#1c2939",
+        "dropdown.listBackground": "#1c2939",
         "dropdown.border": "#1c2939",
         "dropdown.foreground": "#d6d8d9",
 
