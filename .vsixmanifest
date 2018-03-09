@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="pines-visual-studio-code" Version="0.0.3" Publisher="deeppines"/>
+    <Identity Language="en-US" Id="pines-visual-studio-code" Version="0.0.5" Publisher="deeppines"/>
     <DisplayName>Pines</DisplayName>
     <Description xml:space="preserve">Dark theme UI for Visual Studio Code</Description>
     <Tags>dark, UI, bluish, clean</Tags>
@@ -9,7 +9,7 @@
     <GalleryFlags>Public</GalleryFlags>
     <Badges><Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadge.apphb.com/version/deeppines.pines-visual-studio-code.svg" Description="Extension version" /> <Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadge.apphb.com/installs/deeppines.pines-visual-studio-code.svg" Description="Extension installs" /> <Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadge.apphb.com/rating/deeppines.pines-visual-studio-code.svg" Description="Extension Rating" /></Badges>
     <Properties>
-      <Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.19.0" />
+      <Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.21.0" />
       <Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
       
         <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="hhttps://github.com/deeppines/pines-visual-studio-code" />
