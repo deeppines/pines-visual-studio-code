@@ -1,4 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-visual-studio-code-icon-marketplace.png" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-visual-studio-code-icon-marketplace.png" />
+</p>
 <h1 align="center">PINES</h1>
 <br>
 <p align="center">
@@ -20,11 +22,15 @@
 </p>
 <p align="center">Dark theme UI for Visual Studio Code</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" /><p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" />
+<p>
 
 <p align="center">Copyright &copy; 2018 deeppines</p>
 <p align="center">
-  <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
+  <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  </a>
 </p>
 
 # Getting started
@@ -49,7 +55,7 @@ ext install pines-visual-studio-code
 
 ## Contribution
 
-Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/deeppines/pines-visual-studio-code/issues).
+Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker][issue].
 
 ## Changelog
 
@@ -61,3 +67,4 @@ Notable changes to this project documented in this file - [changelog.md][changel
 [short-macos]:https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 [short-windows]:https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 [changelog]:https://github.com/deeppines/pines-visual-studio-code/blob/master/CHANGELOG.md
+[issue]:https://github.com/deeppines/pines-visual-studio-code/issues
