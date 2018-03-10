@@ -20,7 +20,7 @@
 </p>
 <p align="center">Dark theme UI for Visual Studio Code</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" />
+<p align="center"><img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" /><p>
 
 <p align="center">Copyright &copy; 2018 deeppines</p>
 <p align="center">
