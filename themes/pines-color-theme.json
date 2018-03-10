@@ -223,13 +223,13 @@
         "titleBar.inactiveForeground": "#4d5d6c",
         "titleBar.border": "#1c2939",
 
-        "notificationCenter.border": "#4d5d6c",
+        "notificationCenter.border": "#1c2939",
         "notificationCenterHeader.foreground": "#d6d8d9",
         "notificationCenterHeader.background": "#1c2939",
-        "notificationToast.border": "#4d5d6c",
+        "notificationToast.border": "#1c2939",
         "notifications.foreground": "#d6d8d9",
         "notifications.background": "#1c2939",
-        "notifications.border": "#4d5d6c",
+        "notifications.border": "#1c2939",
         "notificationLink.foreground": "#118ab2",
 
         "extensionButton.prominentForeground": "#ffffff",
@@ -276,8 +276,7 @@
         {
             "scope": [],
             "settings": {
-                "foreground": "#eeffffff",
-                "background": "#263238ff"
+                "foreground": "#eeffffff"
             }
         },
         {
@@ -811,7 +810,6 @@
                 "markup.quote punctuation.definition.blockquote.markdown"
             ],
             "settings": {
-                "background": "#65737E",
                 "foreground": "#65737E"
             }
         },
@@ -905,7 +903,6 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "background": "#00000050",
                 "foreground": "#65737E"
             }
         },
