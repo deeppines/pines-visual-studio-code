@@ -226,6 +226,11 @@
         "notificationCenter.border": "#4d5d6c",
         "notificationCenterHeader.foreground": "#d6d8d9",
         "notificationCenterHeader.background": "#1c2939",
+        "notificationToast.border": "#4d5d6c",
+        "notifications.foreground": "#d6d8d9",
+        "notifications.background": "#1c2939",
+        "notifications.border": "#4d5d6c",
+        "notificationLink.foreground": "#118ab2",
 
         "extensionButton.prominentForeground": "#ffffff",
         "extensionButton.prominentBackground": "#118ab2",
