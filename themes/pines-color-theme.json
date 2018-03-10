@@ -74,7 +74,7 @@
 
         "sideBar.background": "#253447",
         "sideBar.foreground": "#d6d8d9",
-        "sideBar.border": "#4d5d6c",
+        "sideBar.border": "#4d5d6c3b",
         "sideBar.dropBackground": "#4d5d6c",
         "sideBarTitle.foreground": "#d6d8d9",
         "sideBarSectionHeader.background": "#1c2939",
@@ -222,6 +222,10 @@
         "titleBar.inactiveBackground": "#1c2939",
         "titleBar.inactiveForeground": "#4d5d6c",
         "titleBar.border": "#1c2939",
+
+        "notificationCenter.border": "#4d5d6c",
+        "notificationCenterHeader.foreground": "#d6d8d9",
+        "notificationCenterHeader.background": "#1c2939",
 
         "extensionButton.prominentForeground": "#ffffff",
         "extensionButton.prominentBackground": "#118ab2",
