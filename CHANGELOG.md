@@ -9,6 +9,7 @@ Notable changes to this project
 - update .gitignore
 - update .markdownlint.json
 - update .vscodeignore
+- update README.md
 
 ### Added
 
@@ -37,9 +38,7 @@ Notable changes to this project
 
 ## [v.0.0.4] - 2018-01-14
 
-### Added
-
-- Initial release
+### Initial release
 
 [Unreleased]: https://github.com/deeppines/pines-visual-studio-code/tree/patch-0.0.7
 
