@@ -274,6 +274,7 @@
 
     "tokenColors": [
         {
+            "scope": [],
             "settings": {
                 "foreground": "#eeffffff",
                 "background": "#263238ff"
@@ -733,7 +734,10 @@
             "name": "Markdown - Line Break",
             "scope": [
                 "text.html.markdown meta.dummy.line-break"
-            ]
+            ],
+            "settings": {
+                
+            }
         },
         {
             "name": "Markdown - Heading",
