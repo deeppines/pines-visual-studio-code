@@ -197,7 +197,7 @@
         "editorOverviewRuler.commonContentForeground": "#4d5d6c",
 
         "panel.background": "#253447",
-        "panel.border": "#253447",
+        "panel.border": "#4d5d6c3b",
         "panel.dropBackground": "#253447aa",
         "panelTitle.activeBorder": "#d6d8d9",
         "panelTitle.activeForeground": "#d6d8d9",
