@@ -6,24 +6,25 @@ Notable changes to this project
 
 ### Changed
 
-- update .gitignore
-- update .markdownlint.json
-- update .vscodeignore
-- update README.md
+- update `.gitignore`
+- update `README.md`
 
 ### Added
 
-- add CHANGELOG.md
-- add .editorconfig
-- add .vscodeignore
-- add .markdownlint.json
+- add `CHANGELOG.md`
+- add `.editorconfig`
+- add `.vscodeignore`
+- add `.markdownlint.json`
 
 ## [v.0.0.6] - 2018-03-10
 
 ### Changed
 
 - update notifications border color
-- update preview
+- update preview image
+
+### Fixed
+
 - bugs fix
 
 ## [v.0.0.5] - 2018-03-10
@@ -35,6 +36,10 @@ Notable changes to this project
 ### Added
 
 - add new notification colors
+
+### Removed
+
+- remove old [notifications](https://code.visualstudio.com/docs/getstarted/theme-color-reference#_notification-colors) colors
 
 ## [v.0.0.4] - 2018-01-14
 
