@@ -2,7 +2,7 @@
     "name": "pines-visual-studio-code",
     "displayName": "Pines",
     "description": "Dark theme UI for Visual Studio Code",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "deeppines",
     "author": {
         "name": "deeppines",
@@ -18,7 +18,7 @@
     },
     "license": "https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE",
     "engines": {
-        "vscode": "^1.19.0"
+        "vscode": "^1.21.0"
     },
     "galleryBanner": {
         "color": "#1c2939",
