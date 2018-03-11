@@ -4,6 +4,8 @@ Notable changes to this project
 
 ## [Unreleased]
 
+## [v.0.0.7] - 2018-03-11
+
 ### Changed
 
 - update `.gitignore`
@@ -45,8 +47,9 @@ Notable changes to this project
 
 ### Initial release
 
-[Unreleased]: https://github.com/deeppines/pines-visual-studio-code/tree/patch-0.0.7
+[Unreleased]: https://github.com/deeppines/pines-visual-studio-code/tree/patch-0.0.8
 
+[v.0.0.7]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.7
 [v.0.0.6]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.6
 [v.0.0.5]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.5
 [v.0.0.4]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/0.0.4
