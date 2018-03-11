@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="pines-visual-studio-code" Version="0.0.5" Publisher="deeppines"/>
+    <Identity Language="en-US" Id="pines-visual-studio-code" Version="0.0.7" Publisher="deeppines"/>
     <DisplayName>Pines</DisplayName>
     <Description xml:space="preserve">Dark theme UI for Visual Studio Code</Description>
     <Tags>dark, UI, bluish, clean</Tags>
@@ -35,6 +35,9 @@
   <Dependencies/>
   <Assets>
     <Asset Type="Microsoft.VisualStudio.Code.Manifest" Path="extension/package.json" Addressable="true" />
-    <Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="extension/README.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Content.Changelog" Path="extension/CHANGELOG.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Content.License" Path="extension/LICENSE.txt" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/assets/pines-visual-studio-code-icon-marketplace.png" Addressable="true" />
+    <Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="extension/README.md" Addressable="true" />
+    <Asset Type="Microsoft.VisualStudio.Services.Content.Changelog" Path="extension/CHANGELOG.md" Addressable="true" />
+    <Asset Type="Microsoft.VisualStudio.Services.Content.License" Path="extension/LICENSE.txt" Addressable="true" />
+    <Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/assets/pines-visual-studio-code-icon-marketplace.png" Addressable="true" />
   </Assets>
 </PackageManifest>
