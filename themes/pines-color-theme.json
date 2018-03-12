@@ -937,6 +937,67 @@
       "settings": {
         "foreground": "#b267e6"
       }
+    },
+    {
+      "name": "[CSS] - Punctuation",
+      "scope": [
+        "punctuation.section.property-list.begin.bracket.curly.css",
+        "punctuation.section.property-list.end.bracket.curly.css",
+        "punctuation.separator.list.comma.css",
+        "punctuation.separator.key-value.css",
+        "punctuation.definition.entity.css",
+        "punctuation.terminator.rule.css"
+      ],
+      "settings": {
+        "foreground": "#b8cacb"
+      }
+    },
+    {
+      "name": "[CSS] - Tag",
+      "scope": "entity.name.tag.css",
+      "settings": {
+        "foreground": "#68beec"
+      }
+    },
+    {
+      "name": "[CSS] - Class",
+      "scope": [
+        "entity.other.attribute-name.class.css"
+      ],
+      "settings": {
+        "foreground": "#f69d1d"
+      }
+    },
+    {
+      "name": "[CSS] - Id",
+      "scope": "entity.other.attribute-name.id.css",
+      "settings": {
+        "foreground": "#dddb3a"
+      }
+    },
+    {
+      "name": "[CSS] - Property name",
+      "scope": "support.type.property-name.css",
+      "settings": {
+        "foreground": "#589b71"
+      }
+    },
+    {
+      "name": "[CSS] - Property value",
+      "scope": [
+        "meta.property-value.css",
+        "constant.numeric.css",
+        "support.constant.property-value.css",
+        "support.constant.font-name.css",
+        "keyword.other.unit.px.css",
+        "keyword.other.unit.em.css",
+        "keyword.other.unit.rem.css",
+        "keyword.other.unit.s.css",
+        "keyword.other.unit.percentage.css"
+      ],
+      "settings": {
+        "foreground": "#d06234"
+      }
     }
   ]
 }
