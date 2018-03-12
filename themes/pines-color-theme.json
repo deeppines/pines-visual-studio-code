@@ -276,7 +276,7 @@
     {
       "scope": [],
       "settings": {
-        "foreground": "#eeffffff"
+        "foreground": "#d6d8d9"
       }
     },
     {
@@ -286,8 +286,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#4d5d6c"
       }
     },
     {
