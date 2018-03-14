@@ -4,6 +4,10 @@ Notable changes to this project
 
 ## [Unreleased]
 
+### Added
+
+- add CSS syntax highlighting
+
 ## [v.0.0.7] - 2018-03-11
 
 ### Changed

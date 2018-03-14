@@ -276,7 +276,7 @@
     {
       "scope": [],
       "settings": {
-        "foreground": "#eeffffff"
+        "foreground": "#d6d8d9"
       }
     },
     {
@@ -286,8 +286,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#4d5d6c"
       }
     },
     {
@@ -937,6 +936,85 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#b267e6"
+      }
+    },
+
+    {
+      "name": "[CSS] - Punctuation",
+      "scope": [
+        "punctuation.section.property-list.begin.bracket.curly.css",
+        "punctuation.section.property-list.end.bracket.curly.css",
+        "punctuation.definition.entity.begin.bracket.square.css",
+        "punctuation.definition.entity.end.bracket.square.css",
+        "punctuation.separator.list.comma.css",
+        "punctuation.separator.key-value.css",
+        "punctuation.definition.entity.css",
+        "punctuation.terminator.rule.css",
+        "keyword.operator.combinator.css"
+      ],
+      "settings": {
+        "foreground": "#b8cacb"
+      }
+    },
+    {
+      "name": "[CSS] - Tag",
+      "scope": "entity.name.tag.css",
+      "settings": {
+        "foreground": "#68beec"
+      }
+    },
+    {
+      "name": "[CSS] - Class",
+      "scope": [
+        "entity.other.attribute-name.class.css"
+      ],
+      "settings": {
+        "foreground": "#d06234"
+      }
+    },
+    {
+      "name": "[CSS] - Id",
+      "scope": "entity.other.attribute-name.id.css",
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "[CSS] - Pseudo",
+      "scope": [
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.other.attribute-name.pseudo-element.css"
+      ],
+      "settings": {
+        "foreground": "#f69d1d"
+      }
+    },
+    {
+      "name": "[CSS] - Property name",
+      "scope": [
+        "support.type.property-name.css",
+        "support.type.vendored.property-name.css",
+        "support.type.property-name.media.css"
+      ],
+      "settings": {
+        "foreground": "#589b71"
+      }
+    },
+    {
+      "name": "[CSS] - Property value",
+      "scope": [
+        "meta.property-value.css",
+        "constant.numeric.css",
+        "support.constant.property-value.css",
+        "support.constant.font-name.css",
+        "keyword.other.unit.px.css",
+        "keyword.other.unit.em.css",
+        "keyword.other.unit.rem.css",
+        "keyword.other.unit.s.css",
+        "keyword.other.unit.percentage.css"
+      ],
+      "settings": {
+        "foreground": "#d06234"
       }
     }
   ]
