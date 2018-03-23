@@ -60,14 +60,9 @@ ext install pines-visual-studio-code
 
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker][issue].
 
-## Changelog
-
-Notable changes to this project documented in this file - [changelog.md][changelog]
-
 [short-marketplace-deeppines]:https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code
 [short-marketplace]:https://code.visualstudio.com/docs/editor/extension-gallery
 [short-linux]:https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
 [short-macos]:https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 [short-windows]:https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-[changelog]:https://github.com/deeppines/pines-visual-studio-code/blob/master/CHANGELOG.md
 [issue]:https://github.com/deeppines/pines-visual-studio-code/issues
