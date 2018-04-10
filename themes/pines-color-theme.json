@@ -1021,7 +1021,10 @@
       "scope": [
         "punctuation.definition.keyword.css",
         "keyword.control.at-rule.media.css",
-        "keyword.control.at-rule.keyframes.css"
+        "keyword.operator.logical.and.media.css",
+        "keyword.control.at-rule.keyframes.css",
+        "entity.other.keyframe-offset.css",
+        "entity.other.keyframe-offset.percentage.css"
       ],
       "settings": {
         "foreground": "#2b97ee"
