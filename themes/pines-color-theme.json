@@ -54,7 +54,6 @@
     "list.activeSelectionBackground"                   : "#1c2939",
     "list.activeSelectionForeground"                   : "#d6d8d9",
     "list.inactiveFocusBackground"                     : "#4d5d6c",
-    "list.inactiveFocusForeground"                     : "#d6d8d9",
     "list.inactiveSelectionBackground"                 : "#4d5d6c",
     "list.inactiveSelectionForeground"                 : "#d6d8d9",
     "list.hoverBackground"                             : "#1c2939",
@@ -1015,6 +1014,20 @@
       ],
       "settings": {
         "foreground": "#d06234"
+      }
+    },
+    {
+      "name": "[CSS] - Other property name",
+      "scope": [
+        "punctuation.definition.keyword.css",
+        "keyword.control.at-rule.media.css",
+        "keyword.operator.logical.and.media.css",
+        "keyword.control.at-rule.keyframes.css",
+        "entity.other.keyframe-offset.css",
+        "entity.other.keyframe-offset.percentage.css"
+      ],
+      "settings": {
+        "foreground": "#2b97ee"
       }
     }
   ]
