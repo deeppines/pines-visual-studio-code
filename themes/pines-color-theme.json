@@ -1016,6 +1016,17 @@
       "settings": {
         "foreground": "#d06234"
       }
+    },
+    {
+      "name": "[CSS] - Other property name",
+      "scope": [
+        "punctuation.definition.keyword.css",
+        "keyword.control.at-rule.media.css",
+        "keyword.control.at-rule.keyframes.css"
+      ],
+      "settings": {
+        "foreground": "#2b97ee"
+      }
     }
   ]
 }
