@@ -4,9 +4,15 @@ Notable changes to this project
 
 ## [Unreleased]
 
+## [v.0.0.8] - 2019-01-26
+
+### Fixed
+
+- Fixed [issue](https://github.com/deeppines/pines-visual-studio-code/issues/13)
+
 ### Added
 
-- add CSS syntax highlighting
+- new color rules
 
 ## [v.0.0.7] - 2018-03-11
 
@@ -51,8 +57,9 @@ Notable changes to this project
 
 ### Initial release
 
-[Unreleased]: https://github.com/deeppines/pines-visual-studio-code/tree/patch-0.0.8
+[Unreleased]:
 
+[v.0.0.8]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.8
 [v.0.0.7]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.7
 [v.0.0.6]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.6
 [v.0.0.5]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.5
