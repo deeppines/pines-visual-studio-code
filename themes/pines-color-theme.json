@@ -40,9 +40,9 @@
     "inputValidation.infoBackground":    "#118ab2",
     "inputValidation.infoForeground":    "#d6d8d9",
     "inputValidation.infoBorder":        "#118ab2",
-    "inputValidation.warningBackground": "#f0c808",
+    "inputValidation.warningBackground": "#ebcb8b",
     "inputValidation.warningForeground": "#d6d8d9",
-    "inputValidation.warningBorder":     "#f0c808",
+    "inputValidation.warningBorder":     "#ebcb8b",
 
     "scrollbar.shadow":                  "#1c2939",
     "scrollbarSlider.activeBackground":  "#1c2939ab",
@@ -67,7 +67,7 @@
     "list.invalidItemForeground":        "#bf616a",
     "list.inactiveFocusBackground":      "#4d5d6c",
     "list.errorForeground":              "#bf616a",
-    "list.warningForeground":            "#f0c808",
+    "list.warningForeground":            "#ebcb8b",
 
     "activityBar.background":            "#1c2939",
     "activityBar.dropBackground":        "#1c2939aa",
@@ -154,24 +154,24 @@
     "editorOverviewRuler.selectionHighlightForeground":  "#979C9C",
     "editorOverviewRuler.wordHighlightForeground":       "#979C9C",
     "editorOverviewRuler.wordHighlightStrongForeground": "#979C9C",
-    "editorOverviewRuler.modifiedForeground":            "#f0c808",
+    "editorOverviewRuler.modifiedForeground":            "#ebcb8b",
     "editorOverviewRuler.addedForeground":               "#a3be8c",
     "editorOverviewRuler.deletedForeground":             "#bf616a",
     "editorOverviewRuler.errorForeground":               "#bf616a",
-    "editorOverviewRuler.warningForeground":             "#f0c808",
+    "editorOverviewRuler.warningForeground":             "#ebcb8b",
     "editorOverviewRuler.infoForeground":                "#118ab2",
 
     "editorError.foreground":                            "#bf616a",
     "editorError.border":                                "#bf616a00",
 
-    "editorWarning.foreground":                          "#f0c808",
-    "editorWarning.border":                              "#f0c80800",
+    "editorWarning.foreground":                          "#ebcb8b",
+    "editorWarning.border":                              "#ebcb8b00",
 
     "editorInfo.foreground":                             "#118ab2",
     "editorInfo.border":                                 "#118ab200",
 
     "editorGutter.background":                           "#253447",
-    "editorGutter.modifiedBackground":                   "#f0c808",
+    "editorGutter.modifiedBackground":                   "#ebcb8b",
     "editorGutter.addedBackground":                      "#a3be8c",
     "editorGutter.deletedBackground":                    "#bf616a",
 
@@ -196,7 +196,7 @@
 
     "editorMarkerNavigation.background":                 "#253447",
     "editorMarkerNavigationError.background":            "#bf616a",
-    "editorMarkerNavigationWarning.background":          "#f0c808",
+    "editorMarkerNavigationWarning.background":          "#ebcb8b",
     "editorMarkerNavigationInfo.background":             "#118ab2",
 
     "peekView.border":                                   "#4d5d6c",
@@ -206,7 +206,7 @@
     "peekViewResult.background":                         "#253447",
     "peekViewResult.fileForeground":                     "#118ab2",
     "peekViewResult.lineForeground":                     "#118ab266",
-    "peekViewEditor.matchHighlightBackground":           "#f0c808",
+    "peekViewEditor.matchHighlightBackground":           "#ebcb8b",
     "peekViewResult.selectionBackground":                "#1c2939",
     "peekViewResult.selectionForeground":                "#d6d8d9",
     "peekViewTitle.background":                          "#1c2939",
@@ -218,8 +218,8 @@
     "merge.incomingHeaderBackground":                    "#118ab2",
     "merge.incomingContentBackground":                   "#118ab270",
     "merge.border":                                      "#1c293900",
-    "merge.currentContentBackground":                    "#f0c80870",
-    "merge.currentHeaderBackground":                     "#f0c808",
+    "merge.currentContentBackground":                    "#ebcb8b70",
+    "merge.currentHeaderBackground":                     "#ebcb8b",
     "editorOverviewRuler.currentContentForeground":      "#4d5d6c",
     "editorOverviewRuler.incomingContentForeground":     "#4d5d6c",
     "editorOverviewRuler.commonContentForeground":       "#4d5d6c",
@@ -308,7 +308,7 @@
     "walkThrough.embeddedEditorBackground":              "#1c2939",
 
     "gitDecoration.untrackedResourceForeground":         "#a3be8c",
-    "gitDecoration.modifiedResourceForeground":          "#f0c808",
+    "gitDecoration.modifiedResourceForeground":          "#ebcb8b",
     "gitDecoration.deletedResourceForeground":           "#bf616a",
     "gitDecoration.ignoredResourceForeground":           "#979C9C",
     "gitDecoration.conflictingResourceForeground":       "#bf616a",
