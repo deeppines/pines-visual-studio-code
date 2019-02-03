@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" />
 <p>
 
-<p align="center">Copyright &copy; 2018 deeppines</p>
+<p align="center">Copyright &copy; 2018 - 2019 deeppines</p>
 <p align="center">
   <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
