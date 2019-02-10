@@ -4,6 +4,33 @@ Notable changes to this project
 
 ## [Unreleased]
 
+## [v.0.1.0] - 2019-02-10
+
+### Fixed
+
+- Fixed merge conflict color
+
+### Added
+
+- Added new color for list
+- Added color for editorLineNumber.activeForeground
+- Added color for editorHint
+- Added editorUnnecessaryCode colors
+- Added editorWidget.resizeBorder color
+- Added editorGutter.commentRangeForeground color
+- Added editorOverviewRuler.bracketMatchForeground color
+- Added peekViewEditor.matchHighlightBorder color
+- Added new color for terminal
+- Added statusBarItem.hostBackground color
+- Added welcomePage.background color
+- Added new color for gitDecoration
+- Added color for Snippets
+
+### Changed
+
+- update VSC badge
+- del Italic font style
+
 ## [v.0.0.9] - 2019-02-03
 
 ### Changed
@@ -68,6 +95,7 @@ Notable changes to this project
 
 [Unreleased]: #
 
+[v.0.1.0]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.0
 [v.0.0.9]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.9
 [v.0.0.8]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.8
 [v.0.0.7]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.7
