@@ -18,7 +18,7 @@
     },
     "license": "https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE",
     "engines": {
-        "vscode": "^1.21.0"
+        "vscode": "^1.30.0"
     },
     "galleryBanner": {
         "color": "#1c2939",
@@ -30,10 +30,17 @@
         "Themes"
     ],
     "keywords": [
+        "pines",
         "dark",
         "UI",
         "bluish",
-        "clean"
+        "clean",
+        "theme",
+        "vs theme",
+        "code theme",
+        "vscode theme",
+        "dark theme",
+        "vscode, dark theme"
     ],
     "badges": [
         {
