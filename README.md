@@ -4,8 +4,8 @@
 <h1 align="center">PINES</h1>
 <br>
 <p align="center">
-  <a href="https://code.visualstudio.com/updates/v1_21" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/VS_Code-v1.21+-373277.svg" />
+  <a href="https://code.visualstudio.com/updates/v1_27" rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/VS_Code-v1.27+-373277.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
     <img src="https://vsmarketplacebadge.apphb.com/version-short/deeppines.pines-visual-studio-code.svg" />
