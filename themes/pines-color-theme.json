@@ -179,6 +179,9 @@
     "editorHint.foreground":                             "#a3be8c",
     "editorHint.border":                                 "#a3be8c00",
 
+    "editorUnnecessaryCode.border":                      "#00000000",
+    "editorUnnecessaryCode.opacity":                     "#000000c0",
+
     "editorGutter.background":                           "#253447",
     "editorGutter.modifiedBackground":                   "#ebcb8b",
     "editorGutter.addedBackground":                      "#a3be8c",
