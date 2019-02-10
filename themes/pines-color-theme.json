@@ -116,10 +116,12 @@
     "tab.inactiveModifiedBorder":          "#ff0000",
     "tab.unfocusedActiveModifiedBorder":   "#ff0000",
     "tab.unfocusedInactiveModifiedBorder": "#ff0000",
+    "editorPane.background":               "#ff0000",
 
     "editor.background":                    "#253447",
     "editor.foreground":                    "#d6d8d9",
     "editorLineNumber.foreground":          "#4d5d6c",
+    "editorLineNumber.activeForeground":    "#d6d8d9",
     "editorCursor.background":              "#4d5d6c",
     "editorCursor.foreground":              "#d6d8d9",
     "editor.selectionBackground":           "#4d5d6c",
@@ -163,6 +165,7 @@
     "editorOverviewRuler.errorForeground":               "#bf616a",
     "editorOverviewRuler.warningForeground":             "#ebcb8b",
     "editorOverviewRuler.infoForeground":                "#118ab2",
+    "editorOverviewRuler.bracketMatchForeground":        "#ff0000",
 
     "editorError.foreground":                            "#bf616a",
     "editorError.border":                                "#bf616a00",
@@ -172,6 +175,9 @@
 
     "editorInfo.foreground":                             "#118ab2",
     "editorInfo.border":                                 "#118ab200",
+
+    "editorHint.foreground":                             "#a3be8c",
+    "editorHint.border":                                 "#a3be8c00",
 
     "editorGutter.background":                           "#253447",
     "editorGutter.modifiedBackground":                   "#ebcb8b",
