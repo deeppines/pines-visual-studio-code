@@ -245,6 +245,7 @@
     "panelTitle.activeBorder":                           "#d6d8d9",
     "panelTitle.activeForeground":                       "#d6d8d9",
     "panelTitle.inactiveForeground":                     "#d6d8d988",
+    "panelInput.border":                                 "#4d5d6c3b",
 
     "statusBar.background":                              "#1c2939",
     "statusBar.foreground":                              "#d6d8d9",
@@ -259,7 +260,6 @@
     "statusBarItem.hoverBackground":                     "#253447",
     "statusBarItem.prominentBackground":                 "#4d5d6c",
     "statusBarItem.prominentHoverBackground":            "#253447",
-    "statusBarItem.hostBackground":                      "#4d5d6c",
 
     "titleBar.activeBackground":                         "#1c2939",
     "titleBar.activeForeground":                         "#d6d8d9",
@@ -295,7 +295,7 @@
     "pickerGroup.foreground":                            "#d6d8d9",
 
     "terminal.background":                               "#253447",
-    "terminal.border":                                   "#253447",
+    "terminal.border":                                   "#4d5d6c3b",
     "terminal.foreground":                               "#d6d8d9",
     "terminal.ansiBlack":                                "#3b4252",
     "terminal.ansiRed":                                  "#bf616a",

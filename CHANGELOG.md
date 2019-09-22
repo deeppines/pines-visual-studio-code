@@ -2,7 +2,20 @@
 
 Notable changes to this project
 
-## [Unreleased]
+## [v.0.1.1] - 2019-09-22
+
+### Added
+
+- Added new color for panel
+
+### Changed
+
+- Update README
+- Update terminal border color
+
+### Removed
+
+- Del old color from Status Bar
 
 ## [v.0.1.0] - 2019-02-10
 
@@ -93,8 +106,7 @@ Notable changes to this project
 
 ### Initial release
 
-[Unreleased]: #
-
+[v.0.1.1]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.1
 [v.0.1.0]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.0
 [v.0.0.9]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.9
 [v.0.0.8]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.8
