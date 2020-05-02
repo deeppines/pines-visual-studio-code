@@ -11,6 +11,10 @@
     "selection.background":              "#d6d8d9",
     "descriptionForeground":             "#d6d8d9",
     "errorForeground":                   "#bf616a",
+    "icon.foreground":                   "#d6d8d9",
+
+    "window.activeBorder":               "#1c2939",
+    "window.inactiveBorder":             "#4d5d6c",
 
     "textBlockQuote.background":         "#253447",
     "textBlockQuote.border":             "#4d5d6c",
