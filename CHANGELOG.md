@@ -2,6 +2,12 @@
 
 Notable changes to this project
 
+## [v.0.1.3] - 2020-05-09
+
+### Fixed
+
+- Fixed `list.focusBackground` color
+
 ## [v.0.1.2] - 2020-05-09
 
 ### Added
@@ -112,7 +118,8 @@ Notable changes to this project
 
 ### Initial release
 
-[v.0.1.2]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.1
+[v.0.1.3]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.3
+[v.0.1.2]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.2
 [v.0.1.1]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.1
 [v.0.1.0]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.0
 [v.0.0.9]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.9
