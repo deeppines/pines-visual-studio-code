@@ -27,6 +27,7 @@
     "button.background":                 "#1c2939",
     "button.foreground":                 "#d6d8d9",
     "button.hoverBackground":            "#4d5d6c",
+
     "checkbox.background":               "#1c2939",
     "checkbox.foreground":               "#d6d8d9",
     "checkbox.border":                   "#4d5d6c",
@@ -40,7 +41,9 @@
     "input.border":                      "#1c2939",
     "input.foreground":                  "#d6d8d9",
     "input.placeholderForeground":       "#4d5d6c",
+
     "inputOption.activeBorder":          "#4d5d6c",
+
     "inputValidation.errorBackground":   "#bf616a",
     "inputValidation.errorForeground":   "#d6d8d9",
     "inputValidation.errorBorder":       "#bf616a",
@@ -64,10 +67,10 @@
     "list.activeSelectionBackground":    "#1c2939",
     "list.activeSelectionForeground":    "#d6d8d9",
     "list.dropBackground":               "#1c2939cc",
-    "list.focusBackground":              "#1c2939",
+    "list.focusBackground":              "#4d5d6c",
     "list.focusForeground":              "#d6d8d9",
     "list.highlightForeground":          "#bf616a",
-    "list.hoverBackground":              "#1c2939",
+    "list.hoverBackground":              "#4d5d6c",
     "list.hoverForeground":              "#d6d8d9",
     "list.inactiveSelectionBackground":  "#4d5d6c",
     "list.inactiveSelectionForeground":  "#d6d8d9",
