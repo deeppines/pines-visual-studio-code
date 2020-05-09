@@ -2,6 +2,12 @@
 
 Notable changes to this project
 
+## [v.0.1.2] - 2020-05-09
+
+### Added
+
+- Added new color
+
 ## [v.0.1.1] - 2019-09-22
 
 ### Added
