@@ -112,6 +112,7 @@ Notable changes to this project
 
 ### Initial release
 
+[v.0.1.2]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.1
 [v.0.1.1]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.1
 [v.0.1.0]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.0
 [v.0.0.9]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.0.9
