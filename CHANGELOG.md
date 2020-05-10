@@ -2,6 +2,12 @@
 
 Notable changes to this project
 
+## [v.0.1.4] - 2020-05-10
+
+### Fixed
+
+- Fixed `editor.foldBackground` color
+
 ## [v.0.1.3] - 2020-05-09
 
 ### Fixed
@@ -118,6 +124,7 @@ Notable changes to this project
 
 ### Initial release
 
+[v.0.1.4]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.4
 [v.0.1.3]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.3
 [v.0.1.2]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.2
 [v.0.1.1]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.1

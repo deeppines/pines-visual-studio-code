@@ -193,7 +193,7 @@
     "editorBracketMatch.background":        "#1c2939",
     "editorBracketMatch.border":            "#4d5d6c",
 
-    "editor.foldBackground":                "#ff0000",
+    "editor.foldBackground":                "#1c293970",
 
     "searchEditor.findMatchBackground":     "#1c2939",
     "searchEditor.findMatchBorder":         "#4d5d6c",
@@ -432,7 +432,7 @@
     "editor.snippetTabstopHighlightBackground":          "#1c2939",
     "editor.snippetTabstopHighlightBorder":              "#1c2939",
     "editor.snippetFinalTabstopHighlightBackground":     "#1c2939",
-    "editor.snippetFinalTabstopHighlightBorder":         "#1c2939",
+    "editor.snippetFinalTabstopHighlightBorder":         "#1c2939"
   },
 
   "tokenColors": [{
