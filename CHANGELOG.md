@@ -8,6 +8,10 @@ Notable changes to this project
 
 - Fixed `editor.foldBackground` color
 
+### Changed
+
+- Update preview image
+
 ## [v.0.1.3] - 2020-05-09
 
 ### Fixed
