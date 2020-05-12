@@ -175,8 +175,8 @@
     "editorLink.activeForeground":          "#118ab2",
     "editor.rangeHighlightBackground":      "#4b769070",
     "editor.rangeHighlightBorder":          "#4b769070",
-    "editor.symbolHighlightBackground":     "#ff0000",
-    "editor.symbolHighlightBorder":         "#ff0000",
+    "editor.symbolHighlightBackground":     "#118ab270",
+    "editor.symbolHighlightBorder":         "#118ab270",
 
     "editorWhitespace.foreground":          "#4d5d6c",
 
