@@ -4,6 +4,10 @@ Notable changes to this project
 
 ## [v.0.1.5] - 2020-05-12
 
+### Fixed
+
+- Fixed `editor.symbolHighlightBackground` and `editor.symbolHighlightBorder` colors
+
 ### Changed
 
 - Add new badge
