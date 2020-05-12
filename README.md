@@ -14,6 +14,9 @@
     <img src="https://vsmarketplacebadge.apphb.com/installs/deeppines.pines-visual-studio-code.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
+    <img src="https://vsmarketplacebadge.apphb.com/downloads/deeppines.pines-visual-studio-code.svg" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
     <img src="https://vsmarketplacebadge.apphb.com/rating-short/deeppines.pines-visual-studio-code.svg" />
   </a>
   <a href="https://github.com/deeppines/pines-visual-studio-code/releases">
@@ -22,18 +25,15 @@
   <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/CHANGELOG.md">
     <img src="https://img.shields.io/badge/link-changelog-blue.svg">
   </a>
+  <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  </a>
 </p>
 <p align="center">Dark theme UI for Visual Studio Code</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" />
 <p>
-
-<p align="center">
-  <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  </a>
-</p>
 
 # Getting started
 
