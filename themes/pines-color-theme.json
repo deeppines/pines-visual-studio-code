@@ -87,7 +87,6 @@
     "list.deemphasizedForeground":       "#ff0000",
 
     "activityBar.background":            "#1c2939",
-    "activityBar.dropBackground":        "#1c2939aa",
     "activityBar.foreground":            "#d6d8d9",
     "activityBar.inactiveForeground":    "#d6d8d9aa",
     "activityBar.border":                "#1c2939",
@@ -297,7 +296,6 @@
 
     "panel.background":                                  "#253447",
     "panel.border":                                      "#4d5d6c3b",
-    "panel.dropBackground":                              "#253447aa",
     "panelTitle.activeBorder":                           "#d6d8d9",
     "panelTitle.activeForeground":                       "#d6d8d9",
     "panelTitle.inactiveForeground":                     "#d6d8d988",
