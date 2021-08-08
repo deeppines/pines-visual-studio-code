@@ -2,6 +2,11 @@
 
 Notable changes to this project
 
+## [v.0.2.0] - 2021-08-08
+
+- Update all colors
+- Add core palette
+
 ## [v.0.1.5] - 2020-05-12
 
 ### Fixed
@@ -139,6 +144,7 @@ Notable changes to this project
 
 ### Initial release
 
+[v.0.2.0]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.2.0
 [v.0.1.5]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.5
 [v.0.1.4]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.4
 [v.0.1.3]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.3
