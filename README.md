@@ -29,6 +29,12 @@
   <img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" />
 <p>
 
+# Core Palette
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/palette.png" />
+<p>
+
 # Getting started
 
 You can install this theme through the [Visual Studio Code Marketplace.][short-marketplace-deeppines]
