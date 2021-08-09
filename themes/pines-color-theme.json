@@ -2126,7 +2126,7 @@
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
