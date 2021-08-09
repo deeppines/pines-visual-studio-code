@@ -2,9 +2,24 @@
 
 Notable changes to this project
 
+## [v.0.2.1] - 2021-08-09
+
+### Fixed
+
+- Fixed `list.highlightForeground` color
+
+### Changed
+
+- Remove italic font style
+
 ## [v.0.2.0] - 2021-08-08
 
+### Changed
+
 - Update all colors
+
+### Added
+
 - Add core palette
 
 ## [v.0.1.5] - 2020-05-12
@@ -144,6 +159,7 @@ Notable changes to this project
 
 ### Initial release
 
+[v.0.2.1]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.2.1
 [v.0.2.0]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.2.0
 [v.0.1.5]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.5
 [v.0.1.4]: https://github.com/deeppines/pines-visual-studio-code/releases/tag/v.0.1.4
