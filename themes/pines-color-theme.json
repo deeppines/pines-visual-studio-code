@@ -31,7 +31,7 @@
     "list.activeSelectionForeground": "#d6d8d9",
     "tree.indentGuidesStroke": "#4d5d6c",
     "list.dropBackground": "#4d5d6c",
-    "list.highlightForeground": "#118ab2",
+    "list.highlightForeground": "#ffffff",
     "list.focusBackground": "#4d5d6c",
     "list.focusForeground": "#d6d8d9",
     "listFilterWidget.background": "#1c2939",
@@ -1092,7 +1092,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#61afef"
       }
     },
@@ -1100,7 +1100,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#d19a66"
       }
     },
@@ -2089,7 +2089,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#7f848e"
       }
     },
@@ -2119,14 +2119,14 @@
       "name": "js/ts italic",
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
