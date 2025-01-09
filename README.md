@@ -1,20 +1,23 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-visual-studio-code-icon-marketplace.png" />
 </p>
+
 <h1 align="center">PINES</h1>
+
 <br>
+
 <p align="center">
   <a href="https://code.visualstudio.com/updates/v1_30" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/VS_Code-v1.30+-373277.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
-    <img src="https://vsmarketplacebadge.apphb.com/version-short/deeppines.pines-visual-studio-code.svg" />
+    <img src="https://vsmarketplacebadges.dev/version-short/deeppines.pines-visual-studio-code.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
-    <img src="https://vsmarketplacebadge.apphb.com/installs/deeppines.pines-visual-studio-code.svg" />
+    <img src="https://vsmarketplacebadges.dev/installs/deeppines.pines-visual-studio-code.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
-    <img src="https://vsmarketplacebadge.apphb.com/downloads/deeppines.pines-visual-studio-code.svg" />
+    <img src="https://vsmarketplacebadges.dev/downloads/deeppines.pines-visual-studio-code.svg" />
   </a>
   <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/CHANGELOG.md">
     <img src="https://img.shields.io/badge/link-changelog-blue.svg">
@@ -23,6 +26,7 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
   </a>
 </p>
+
 <p align="center">Dark theme UI for Visual Studio Code</p>
 
 <p align="center">
