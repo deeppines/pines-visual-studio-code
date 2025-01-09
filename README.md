@@ -1,21 +1,24 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-visual-studio-code-icon-marketplace.png" />
+  <img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-visual-studio-code-icon-marketplace.png" alt="Logo" width="128" height="128" />
 </p>
 
 <h1 align="center">PINES</h1>
 
 <br>
 
-[![VS Code][badge-vscode]][vscode]&nbsp;
-[![Version][badge-version]][short-marketplace-deeppines]&nbsp;
-[![Installs][badge-installs]][short-marketplace-deeppines]&nbsp;
-[![Downloads][badge-downloads]][short-marketplace-deeppines]&nbsp;
-[![Changelog][badge-changelog]][changelog]&nbsp;
-[![MIT][badge-license]][license]
+<div align="center">
 
-<p align="center">Dark theme UI for Visual Studio Code</p>
+  [![VS Code][badge-vscode]][vscode]&nbsp;
+  [![Version][badge-version]][short-marketplace-deeppines]&nbsp;
+  [![Installs][badge-installs]][short-marketplace-deeppines]&nbsp;
+  [![Downloads][badge-downloads]][short-marketplace-deeppines]&nbsp;
+  [![Changelog][badge-changelog]][changelog]&nbsp;
+  [![MIT][badge-license]][license]
 
-![Preview][preview-image]
+  Dark theme UI for Visual Studio Code
+
+  ![Preview][preview-image]
+</div>
 
 # Core Palette
 
