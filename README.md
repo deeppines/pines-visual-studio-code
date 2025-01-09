@@ -6,38 +6,20 @@
 
 <br>
 
-<p align="center">
-  <a href="https://code.visualstudio.com/updates/v1_30" rel="noreferrer noopener" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-v1.30+-373277.svg" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code" rel="noreferrer noopener" target="_blank">
-    <img src="https://vsmarketplacebadges.dev/version-short/deeppines.pines-visual-studio-code.svg" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code" rel="noreferrer noopener" target="_blank">
-    <img src="https://vsmarketplacebadges.dev/installs/deeppines.pines-visual-studio-code.svg" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code" rel="noreferrer noopener" target="_blank">
-    <img src="https://vsmarketplacebadges.dev/downloads/deeppines.pines-visual-studio-code.svg" />
-  </a>
-  <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/CHANGELOG.md" >
-    <img src="https://img.shields.io/badge/link-changelog-blue.svg">
-  </a>
-  <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  </a>
-</p>
+[![VS Code][badge-vscode]][vscode]&nbsp;
+[![Version][badge-version]][short-marketplace-deeppines]&nbsp;
+[![Installs][badge-installs]][short-marketplace-deeppines]&nbsp;
+[![Downloads][badge-downloads]][short-marketplace-deeppines]&nbsp;
+[![Changelog][badge-changelog]][changelog]&nbsp;
+[![MIT][badge-license]][license]
 
 <p align="center">Dark theme UI for Visual Studio Code</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png" />
-<p>
+![Preview][preview-image]
 
 # Core Palette
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/palette.png" />
-<p>
+![Palette][palette-image]
 
 # Getting started
 
@@ -68,4 +50,17 @@ Please report issues/bugs, feature requests and suggestions for improvements to 
 [short-linux]:https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
 [short-macos]:https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 [short-windows]:https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+[vscode]:https://code.visualstudio.com/updates/v1_30
 [issue]:https://github.com/deeppines/pines-visual-studio-code/issues
+[changelog]:https://github.com/deeppines/pines-visual-studio-code/blob/master/CHANGELOG.md
+[license]:https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE
+
+[badge-vscode]: https://img.shields.io/badge/VS_Code-v1.30+-373277.svg
+[badge-version]:https://vsmarketplacebadges.dev/version-short/deeppines.pines-visual-studio-code.svg
+[badge-installs]:https://vsmarketplacebadges.dev/installs/deeppines.pines-visual-studio-code.svg
+[badge-downloads]:https://vsmarketplacebadges.dev/downloads/deeppines.pines-visual-studio-code.svg
+[badge-changelog]:https://img.shields.io/badge/link-changelog-blue.svg
+[badge-license]:https://img.shields.io/badge/License-MIT-blue.svg
+
+[preview-image]:https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png
+[palette-image]:https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/palette.png
