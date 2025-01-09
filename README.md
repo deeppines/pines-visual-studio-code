@@ -7,19 +7,19 @@
 <br>
 
 <p align="center">
-  <a href="https://code.visualstudio.com/updates/v1_30" rel="noreferrer noopener">
+  <a href="https://code.visualstudio.com/updates/v1_30" rel="noreferrer noopener" target="_blank">
     <img src="https://img.shields.io/badge/VS_Code-v1.30+-373277.svg" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
+  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code" rel="noreferrer noopener" target="_blank">
     <img src="https://vsmarketplacebadges.dev/version-short/deeppines.pines-visual-studio-code.svg" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
+  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code" rel="noreferrer noopener" target="_blank">
     <img src="https://vsmarketplacebadges.dev/installs/deeppines.pines-visual-studio-code.svg" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code">
+  <a href="https://marketplace.visualstudio.com/items?itemName=deeppines.pines-visual-studio-code" rel="noreferrer noopener" target="_blank">
     <img src="https://vsmarketplacebadges.dev/downloads/deeppines.pines-visual-studio-code.svg" />
   </a>
-  <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/CHANGELOG.md">
+  <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/CHANGELOG.md" >
     <img src="https://img.shields.io/badge/link-changelog-blue.svg">
   </a>
   <a href="https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE">
