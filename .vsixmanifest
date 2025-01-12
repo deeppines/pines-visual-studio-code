@@ -7,7 +7,7 @@
     <Tags>dark, UI, bluish, clean</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>
-    <Badges><Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadges.dev/version-short/deeppines.pines-visual-studio-code.svg" Description="Extension version" /> <Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadges.dev/installs/deeppines.pines-visual-studio-code.svg" Description="Extension installs" /> <Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadges.dev/rating-star/deeppines.pines-visual-studio-code.svg" Description="Extension Rating" /></Badges>
+    <Badges><Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadges.dev/version-short/deeppines.pines-visual-studio-code.png" Description="Extension version" /> <Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadges.dev/installs/deeppines.pines-visual-studio-code.png" Description="Extension installs" /> <Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadges.dev/rating-star/deeppines.pines-visual-studio-code.png" Description="Extension Rating" /></Badges>
     <Properties>
       <Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.21.0" />
       <Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
