@@ -2,6 +2,14 @@
 
 Notable changes to this project
 
+## [v.0.2.2] - 2025-01-12
+
+### Fixed
+
+- Fixed `editorIndentGuide` color
+- Fixed `merge` backgrounds color
+- Fixed `minimap.findMatchHighlight` color
+
 ## [v.0.2.1] - 2021-08-09
 
 ### Fixed
