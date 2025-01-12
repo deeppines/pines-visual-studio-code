@@ -30,13 +30,13 @@ You can install this theme through the [Visual Studio Code Marketplace.][short-m
 
 ## Installation
 
-### <img src="https://marketplace.visualstudio.com/favicon.ico" width=16 height=16 /> [VS Code Extension Marketplace][short-marketplace]
+### <img src="https://marketplace.visualstudio.com/favicon.ico" width=16 height=16 alt="VS Code Extension Marketplace" /> [VS Code Extension Marketplace][short-marketplace]
 
 Launch *Quick Open*
 
-* <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16 /> [Linux][short-linux] `Ctrl+P`
-* <img src="https://developer.apple.com/favicon.ico" width=16 height=16 /> [macOS][short-macos] `⌘P`
-* <img src="https://www.microsoft.com/favicon.ico" width=16 height=16 /> [Windows][short-windows] `Ctrl+P`
+* <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16 alt="Linux" /> [Linux][short-linux] `Ctrl+P`
+* <img src="https://developer.apple.com/favicon.ico" width=16 height=16 alt="macOS" /> [macOS][short-macos] `⌘P`
+* <img src="https://www.microsoft.com/favicon.ico" width=16 height=16 alt="Windows" /> [Windows][short-windows] `Ctrl+P`
 
 Paste the following command and press `Enter`:
 
@@ -59,9 +59,9 @@ Please report issues/bugs, feature requests and suggestions for improvements to 
 [license]:https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE
 
 [badge-vscode]: https://img.shields.io/badge/VS_Code-v1.30+-373277.svg
-[badge-version]:https://vsmarketplacebadges.dev/version-short/deeppines.pines-visual-studio-code.svg
-[badge-installs]:https://vsmarketplacebadges.dev/installs/deeppines.pines-visual-studio-code.svg
-[badge-downloads]:https://vsmarketplacebadges.dev/downloads/deeppines.pines-visual-studio-code.svg
+[badge-version]:https://vsmarketplacebadges.dev/version-short/deeppines.pines-visual-studio-code.png
+[badge-installs]:https://vsmarketplacebadges.dev/installs/deeppines.pines-visual-studio-code.png
+[badge-downloads]:https://vsmarketplacebadges.dev/downloads/deeppines.pines-visual-studio-code.png
 [badge-changelog]:https://img.shields.io/badge/link-changelog-blue.svg
 [badge-license]:https://img.shields.io/badge/License-MIT-blue.svg
 
