@@ -8,12 +8,9 @@
 
 <div align="center">
 
-  [![VS Code][badge-vscode]][vscode]&nbsp;
   [![Version][badge-version]][short-marketplace-deeppines]&nbsp;
   [![Installs][badge-installs]][short-marketplace-deeppines]&nbsp;
-  [![Downloads][badge-downloads]][short-marketplace-deeppines]&nbsp;
   [![Changelog][badge-changelog]][changelog]&nbsp;
-  [![MIT][badge-license]][license]
 
   Dark theme UI for Visual Studio Code
 
@@ -53,17 +50,12 @@ Please report issues/bugs, feature requests and suggestions for improvements to 
 [short-linux]:https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
 [short-macos]:https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 [short-windows]:https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-[vscode]:https://code.visualstudio.com/updates/v1_30
 [issue]:https://github.com/deeppines/pines-visual-studio-code/issues
 [changelog]:https://github.com/deeppines/pines-visual-studio-code/blob/master/CHANGELOG.md
-[license]:https://github.com/deeppines/pines-visual-studio-code/blob/master/LICENSE
 
-[badge-vscode]: https://img.shields.io/badge/VS_Code-v1.30+-373277.svg
 [badge-version]:https://vsmarketplacebadges.dev/version-short/deeppines.pines-visual-studio-code.png
 [badge-installs]:https://vsmarketplacebadges.dev/installs/deeppines.pines-visual-studio-code.png
-[badge-downloads]:https://vsmarketplacebadges.dev/downloads/deeppines.pines-visual-studio-code.png
 [badge-changelog]:https://img.shields.io/badge/link-changelog-blue.svg
-[badge-license]:https://img.shields.io/badge/License-MIT-blue.svg
 
 [preview-image]:https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/pines-preview.png
 [palette-image]:https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/palette.png
