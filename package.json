@@ -42,23 +42,6 @@
         "dark theme",
         "vscode, dark theme"
     ],
-    "badges": [
-        {
-            "url": "https://vsmarketplacebadges.dev/version-short/deeppines.pines-visual-studio-code.png",
-            "href": "https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code",
-            "description": "Extension version"
-        },
-        {
-            "url": "https://vsmarketplacebadges.dev/installs/deeppines.pines-visual-studio-code.png",
-            "href": "https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code",
-            "description": "Extension installs"
-        },
-        {
-            "url": "https://vsmarketplacebadges.dev/rating-star/deeppines.pines-visual-studio-code.png",
-            "href": "https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code",
-            "description": "Extension Rating"
-        }
-    ],
     "contributes": {
         "themes": [
             {

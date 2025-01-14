@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="pines-visual-studio-code" Version="0.2.2" Publisher="deeppines"/>
+    <Identity Language="en-US" Id="pines-visual-studio-code" Version="0.3.0" Publisher="deeppines"/>
     <DisplayName>Pines</DisplayName>
     <Description xml:space="preserve">Dark theme UI for Visual Studio Code</Description>
     <Tags>dark, UI, bluish, clean</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>
-    <Badges><Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadges.dev/version-short/deeppines.pines-visual-studio-code.png" Description="Extension version" /> <Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadges.dev/installs/deeppines.pines-visual-studio-code.png" Description="Extension installs" /> <Badge Link="https://marketplace.visualstudio.com/items/deeppines.pines-visual-studio-code" ImgUri="https://vsmarketplacebadges.dev/rating-star/deeppines.pines-visual-studio-code.png" Description="Extension Rating" /></Badges>
     <Properties>
       <Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.21.0" />
       <Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
-      
-        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="hhttps://github.com/deeppines/pines-visual-studio-code" />
-        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/deeppines/pines-visual-studio-code" />
-        
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/deeppines/pines-visual-studio-code" />
-        
-      
+      <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="hhttps://github.com/deeppines/pines-visual-studio-code" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/deeppines/pines-visual-studio-code" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/deeppines/pines-visual-studio-code" />
       <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/deeppines/pines-visual-studio-code/issues" />
       <Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/deeppines/pines-visual-studio-code" />
       <Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#1c2939" />
       <Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
       <Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
-      
-      
     </Properties>
     <License>extension/LICENSE.txt</License>
     <Icon>extension/assets/pines-visual-studio-code-icon-marketplace.png</Icon>
