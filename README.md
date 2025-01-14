@@ -21,13 +21,13 @@
 
 ![Palette][palette-image]
 
-[View Pallette][palette-core]
+[View Palette][palette-core]
 
 # Syntax Palette
 
 ![Syntax Palette][palette-syntax-image]
 
-[View Pallette][palette-syntax]
+[View Palette][palette-syntax]
 
 # Getting started
 
