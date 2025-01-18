@@ -69,5 +69,5 @@ Please report issues/bugs, feature requests and suggestions for improvements to 
 [palette-image]:https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/palette.png
 [palette-syntax-image]:https://raw.githubusercontent.com/deeppines/pines-visual-studio-code/master/assets/palette-syntax.png
 
-[palette-syntax]:https://coolors.co/palette/e05e33-de711c-ea8d00-ff9b00-d1c688-359980-8ab17d
+[palette-syntax]:https://coolors.co/81a1c1-88c0d0-b48ead-d08770-a0b293-d9c08d-d1c78c
 [palette-core]:https://coolors.co/palette/1c2939-253447-4d5d6c-d6d8d9-118ab2
